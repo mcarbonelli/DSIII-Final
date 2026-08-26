@@ -1,0 +1,1051 @@
+id,fecha,categoria_post,texto_original,sentimiento
+1,2024-06-01,Facturacion_MediosPago,"El código QR para pagar en la web no funciona, no valida el comprobante en Parque Residencial @carlos_rodriguez ⚡❌🤦‍♂️🤬",0
+2,2024-10-19,Atencion_Cliente,La oficina virtual es súper intuitiva y te permite hacer todos los trámites desde casa en Parque Residencial!!! 👍👍⚡,1
+3,2024-01-08,Atencion_Cliente,Trámite de cambio de titularidad rechazado tres veces sin explicar el motivo en Los Aromos #PésimoServicio,0
+4,2024-06-01,Cortes_Programados,Imposible trabajar desde casa con estos cortes programados interminables 😭🕯️😭,0
+5,2024-10-11,Atencion_Cliente,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo en Los Aromos ⚡❌🔌🚫",0
+6,2024-04-09,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en Costanera @claudia_v ⚡❌,0
+7,2024-05-24,Cortes_Programados,Qué linda sorpresa el aumento del triple en la factura de este mes en Barrio Norte #BastaDeCortes 🕯️,0
+8,2024-11-05,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores 🤬 https://electrin.com.ar/info/af5c1,0
+9,2024-11-13,Obras_Mantenimiento,Divino el calor que hace adentro de casa sin ventilador ni heladera en Microcentro... un desastre!! #PésimoServicio 🤬🔌🚫🔌🚫,0
+10,2024-07-14,Cortes_Programados,Corte programado ejecutado a tiempo y con aviso previo por SMS y mail @dr_martinez 😀🙌,1
+11,2024-11-06,Cortes_Emergencia,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras en Barrio Sur @vecinos_activos #PésimoServicio #ReclamoElectrin 👎😡",0
+12,2024-08-05,Cortes_Programados,"Avisaron puerta por puerta en el barrio comercial, muy profesionales #IluminacionLED #EnergiaElectrica",1
+13,2024-10-19,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada en Santa Rita 👎🔌🚫",0
+14,2024-05-07,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos 😡 https://electrin.com.ar/info/a97d4,0
+15,2024-06-14,Facturacion_MediosPago,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo en Las Acacias @lucas_martinez #ZonaAfectada 🤬😡🔌🚫,0
+16,2024-11-23,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento @dr_martinez #GraciasCuadrilla #ServicioRestablecido 🔝,1
+17,2024-07-19,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas en Costanera @lucas_martinez #BuenaAtencion #ElectrinResponde https://electrin.com.ar/info/0c4d8",1
+18,2024-02-28,Facturacion_MediosPago,El sistema no reconoce el comprobante de pago de Pago Fácil... un desastre!! @claudia_v,0
+19,2024-10-23,Cortes_Emergencia,"La guardia de emergencias llegó a los 20 minutos de ingresar el reclamo, impecable en Parque Residencial @claudia_v 💪🔝🔝 https://electrin.com.ar/info/c6dcb",1
+20,2024-11-21,Cortes_Emergencia,Excelente predisposición del equipo técnico que arregló el cable caído en minutos en Barrio Sur 😀👏,1
+21,2024-11-16,Atencion_Cliente,Estuve 45 minutos esperando en el 0800 y me cortaron la llamada en Villa Belgrano... un desastre!! #Inoperantes,0
+22,2024-05-18,Cortes_Emergencia,Muy atentos los técnicos que verificaron que la tensión en los domicilios sea correcta,1
+23,2024-07-21,Atencion_Cliente,Agradezco la calidez y profesionalismo del personal de atención al usuario en Costanera!!! #EnergiaElectrica,1
+24,2024-04-07,Obras_Mantenimiento,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente!!! #GraciasCuadrilla #Eficiencia 💪,1
+25,2024-03-14,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan en Barrio Centro ⚡❌💔,0
+26,2024-02-24,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera... un desastre!! @lucas_martinez,0
+27,2024-06-27,Facturacion_MediosPago,Tarifas abusivas y los aumentos no se reflejan en una mejora del servicio... un desastre!! 😤😤,0
+28,2024-04-22,Atencion_Cliente,Trámite de cambio de titularidad rechazado tres veces sin explicar el motivo... un desastre!! #QueremosLuz #Desastre 🕯️💔⚡❌ https://electrin.com.ar/info/e997b,0
+29,2024-02-20,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada en La Alborada https://electrin.com.ar/info/f45c5",0
+30,2024-05-06,Obras_Mantenimiento,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras en Barrio Sur #BastaDeCortes #ElectrodomesticosRotos ⚡❌😡⚡❌",0
+31,2024-01-25,Obras_Mantenimiento,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo en Parque Residencial 😭😡🕯️",0
+32,2024-03-21,Cortes_Emergencia,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en Las Flores... un desastre!! #SinLuz #EmergenciaElectrica 🔌🚫😡 https://electrin.com.ar/info/64147,0
+33,2024-11-25,Cortes_Emergencia,Hay cables caídos con tensión en plena vereda y es un peligro para los chicos en Barrio Norte 👎😡😤,0
+34,2024-07-30,Cortes_Emergencia,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo en Las Flores!!! #ObrasElectrin #IluminacionLED,1
+35,2024-05-13,Cortes_Emergencia,Hay cables caídos con tensión en plena vereda y es un peligro para los chicos en La Alborada... un desastre!! 😤💔,0
+36,2024-04-24,Facturacion_MediosPago,La factura vino un poco más cara pero la app para pagar en cuotas ayudó bastante #Compromiso #ExcelenteServicio 👏💡,1
+37,2024-01-11,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos @electrin_oficial 😤🔌🚫",0
+38,2024-02-19,Atencion_Cliente,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Altos del Valle ⚡❌🕯️🕯️",0
+39,2024-10-14,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento!!! 👍,1
+40,2024-02-27,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores,0
+41,2024-06-27,Cortes_Emergencia,Solucionaron la fase caída en menos de una hora de haber hecho el reporte!!! @taller_mecanico #EnergiaElectrica 👏😀👏,1
+42,2024-01-06,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz en San Francisco!!!,1
+43,2024-08-24,Cortes_Programados,"Avisaron puerta por puerta en el barrio comercial, muy profesionales en San Cayetano!!! ✅💡",1
+44,2024-01-20,Atencion_Cliente,Seguimiento impecable del reclamo hasta confirmar que teníamos servicio normal en Costanera @mariana_gomez #Recomendado 🌟👏🙌,1
+45,2024-02-20,Atencion_Cliente,"La atención en la oficina central fue pésima, te atienden de mala gana en Villa Belgrano @mariana_gomez #Inoperantes #ReclamoElectrin ⚡❌",0
+46,2024-09-19,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano... un desastre!! 😭🤦‍♂️🔌🚫,0
+47,2024-05-24,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos 🕯️🤦‍♂️🤦‍♂️,0
+48,2024-04-10,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente @comercio_local",0
+49,2024-01-18,Cortes_Programados,Se cortó la luz durante el temporal aunque los operarios trabajaron muy rápido bajo la lluvia #Recomendado #ObrasElectrin ⚡😀🔝,1
+50,2024-09-19,Obras_Mantenimiento,Iluminación LED potente que brinda mucha más seguridad a los vecinos de noche en Microcentro @mariana_gomez #BuenaAtencion #ObrasElectrin,1
+51,2024-08-01,Obras_Mantenimiento,Instalaron un transformador nuevo y la potencia en la zona industrial mejoró un 100% @carlos_rodriguez #ObrasElectrin 👏,1
+52,2024-01-16,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' en Parque Residencial @lucas_martinez #ElectrodomesticosRotos #PésimoServicio 🤦‍♂️🕯️🤬,0
+53,2024-03-07,Atencion_Cliente,El sistema de notificaciones por SMS te mantiene informado de todo el estado en Las Flores https://electrin.com.ar/info/b506c,1
+54,2024-08-23,Facturacion_MediosPago,La descarga de boletas desde la web es instantánea y sin complicaciones en Barrio Centro!!! @dr_martinez 💪 https://electrin.com.ar/info/4d081,1
+55,2024-02-27,Cortes_Emergencia,Explotó un transformador en la esquina y salieron chispas por todos lados... un desastre!! @sofi_alvarez,0
+56,2024-05-08,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo en Parque Residencial @electrin_oficial 🔝🔝💡 https://electrin.com.ar/info/687e1,1
+57,2024-10-22,Obras_Mantenimiento,Luminarias nuevas apagadas desde el primer día que las instalaron en Villa Belgrano... un desastre!! @taller_mecanico 🔌🚫,0
+58,2024-09-30,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión #SinLuz #CorteDeLuz 🤦‍♂️",0
+59,2024-08-16,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Villa Belgrano @taller_mecanico #Desastre #ReclamoElectrin 😤,0
+60,2024-04-21,Facturacion_MediosPago,Pude financiar mi deuda en cuotas accesibles a través de la oficina virtual @laura_estilista,1
+61,2024-04-16,Atencion_Cliente,El trámite de cambio de titularidad fue 100% online y se aprobó en 24 horas @dr_martinez #Compromiso #IluminacionLED 🙌 https://electrin.com.ar/info/78a3e,1
+62,2024-01-12,Cortes_Programados,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo en Las Acacias 😡,0
+63,2024-03-01,Cortes_Emergencia,Hermoso festejar el cumpleaños con velas porque la luz no volvió... un desastre!! 🤦‍♂️ https://electrin.com.ar/info/c28b7,0
+64,2024-09-29,Cortes_Emergencia,Llevamos más de 24 horas sin luz y no vino ninguna cuadrilla en Microcentro #CorteDeLuz,0
+65,2024-04-16,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera... un desastre!! #ZonaAfectada #ElectrodomesticosRotos 💔,0
+66,2024-02-05,Cortes_Emergencia,Muy atentos los técnicos que verificaron que la tensión en los domicilios sea correcta @dr_martinez #Compromiso #ObrasElectrin 🔝😀👏,1
+67,2024-02-13,Facturacion_MediosPago,"Factura muy clara, bien detallados los subsidios y el historial de consumos en Altos del Valle ⚡",1
+68,2024-07-24,Cortes_Emergencia,El servicio volvió antes de lo previsto luego del rayo que afectó la subestación en Las Acacias @claudia_v #GraciasCuadrilla ⚡🙌,1
+69,2024-07-23,Cortes_Programados,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo en Zona Industrial @taller_mecanico #ExcelenteServicio 💡👏🙌,1
+70,2024-03-24,Atencion_Cliente,Estuve 45 minutos esperando en el 0800 y me cortaron la llamada en Barrio Sur... un desastre!! #ReclamoElectrin #PésimoServicio ⚡❌😡🤬,0
+71,2024-08-13,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo en Las Flores @claudia_v #ServicioRestablecido #Compromiso 💪,1
+72,2024-08-19,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido en Zona Industrial @taller_mecanico #ServicioRestablecido #ExcelenteServicio,1
+73,2024-08-25,Cortes_Emergencia,"Divina la respuesta de soporte, me dijeron que compre un grupo electrógeno en Barrio Centro ⚡❌",0
+74,2024-03-08,Cortes_Emergencia,Destaco el compromiso de los trabajadores de guardia en plena madrugada 😀,1
+75,2024-10-06,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Villa Belgrano... un desastre!! @juanpablo_92 #BastaDeCortes 🔌🚫😤😡,0
+76,2024-10-18,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Microcentro #PésimoServicio #ElectrodomesticosRotos 🤬,0
+77,2024-11-30,Obras_Mantenimiento,"Cuadrillas muy profesionales, dejaron la vereda perfectamente limpia y señalizada en Barrio Centro #EnergiaElectrica #ObrasElectrin ✅⚡",1
+78,2024-11-10,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor en Santa Rita #Desastre 😭🔌🚫🤦‍♂️,0
+79,2024-06-17,Obras_Mantenimiento,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en Las Flores @taller_mecanico #LuzEnElBarrio #ExcelenteServicio ⚡👏,1
+80,2024-04-28,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo en Los Aromos",0
+81,2024-08-16,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos en Zona Industrial @electrin_reclamos #BajaTension #CorteDeLuz 😡,0
+82,2024-01-15,Cortes_Emergencia,Solucionaron la fase caída en menos de una hora de haber hecho el reporte!!! @panaderia_centro #BuenaAtencion #ElectrinResponde 💪👍,1
+83,2024-09-30,Cortes_Programados,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo en Santa Rita @dr_martinez 🤬⚡❌,0
+84,2024-06-29,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano... un desastre!! @mariana_gomez 🔌🚫,0
+85,2024-10-25,Cortes_Programados,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo @lucas_martinez #BajaTension 🔌🚫🤬🤬,0
+86,2024-09-24,Obras_Mantenimiento,Luminarias nuevas apagadas desde el primer día que las instalaron en Palermo Viejo @ferreteria_sur 🤦‍♂️,0
+87,2024-03-28,Cortes_Emergencia,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena!!! #LuzEnElBarrio 💪👏,1
+88,2024-08-19,Cortes_Programados,Corte programado ejecutado a tiempo y con aviso previo por SMS y mail en Villa Belgrano!!! #ObrasElectrin #ElectrinResponde 🔝💪🌟 https://electrin.com.ar/info/cf47d,1
+89,2024-11-28,Cortes_Emergencia,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo #PésimoServicio #EmergenciaElectrica",0
+90,2024-01-19,Atencion_Cliente,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo @panaderia_centro #BastaDeCortes",0
+91,2024-05-26,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado en Barrio Sur @ferreteria_sur #Desastre",0
+92,2024-04-26,Facturacion_MediosPago,"El débito automático funciona impecable, nunca un problema ni cobro duplicado en Barrio Sur 👏🌟🔝",1
+93,2024-03-02,Cortes_Emergencia,Explotó un transformador en la esquina y salieron chispas por todos lados en Barrio Sur @panaderia_centro 🤬🤬,0
+94,2024-09-13,Facturacion_MediosPago,Tarifas abusivas y los aumentos no se reflejan en una mejora del servicio en Zona Industrial... un desastre!! @mariana_gomez 🔌🚫💔,0
+95,2024-04-16,Atencion_Cliente,Prometen que la cuadrilla pasa en 2 horas y nunca aparece nadie en Barrio Sur... un desastre!! 😭😤😡,0
+96,2024-10-18,Obras_Mantenimiento,Se terminaron los problemas de baja tensión gracias a la nueva subestación en Las Acacias!!! #ObrasElectrin #ExcelenteServicio ⚡🌟,1
+97,2024-08-09,Cortes_Emergencia,Solucionaron la fase caída en menos de una hora de haber hecho el reporte en San Francisco #ServicioRestablecido #ObrasElectrin ✅✅,1
+98,2024-09-19,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos en Villa San Martín #BajaTension 🤬🤬😤,0
+99,2024-04-23,Cortes_Programados,"Tercer corte programado en la semana, no se puede vivir así en Barrio Sur @sofi_alvarez #ZonaAfectada 🤬😤🤦‍♂️",0
+100,2024-02-19,Cortes_Emergencia,Explotó un transformador en la esquina y salieron chispas por todos lados en Barrio Sur... un desastre!! @panaderia_centro #ElectrinVerguenza #QueremosLuz,0
+101,2024-01-26,Atencion_Cliente,"La atención en la oficina central fue pésima, te atienden de mala gana en Villa San Martín @lucas_martinez 🔌🚫",0
+102,2024-09-26,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera @carlos_rodriguez 🔌🚫,0
+103,2024-07-27,Atencion_Cliente,"Excelente atención del operador telefónico, muy amable y resolutivo!!!",1
+104,2024-05-14,Facturacion_MediosPago,Tarifas abusivas y los aumentos no se reflejan en una mejora del servicio #BastaDeCortes #SinLuz,0
+105,2024-06-02,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' en Villa Belgrano #Inoperantes,0
+106,2024-04-27,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada #BastaDeCortes",0
+107,2024-08-13,Cortes_Emergencia,Excelente predisposición del equipo técnico que arregló el cable caído en minutos en Zona Industrial #ElectrinResponde 👏😀🔝,1
+108,2024-06-07,Obras_Mantenimiento,Hicieron zanjeo en la vereda para cambiar cables y dejaron el pozo abierto sin tapar en Barrio Centro #EmergenciaElectrica ⚡❌🤦‍♂️⚡❌,0
+109,2024-05-05,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' en Costanera... un desastre!! @juanpablo_92 💔,0
+110,2024-03-17,Facturacion_MediosPago,Imposible entender el desglose de conceptos e impuestos en la boleta en Los Aromos #PésimoServicio #CorteDeLuz,0
+111,2024-01-24,Cortes_Programados,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo en Barrio Norte @diego_vecino 🔝,1
+112,2024-07-24,Atencion_Cliente,El sistema de notificaciones por SMS te mantiene informado de todo el estado en Altos del Valle @electrin_oficial #GraciasCuadrilla 👍,1
+113,2024-08-24,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance,0
+114,2024-04-19,Obras_Mantenimiento,Hermoso festejar el cumpleaños con velas porque la luz no volvió en Altos del Valle #Desastre #SinLuz 👎👎,0
+115,2024-07-13,Obras_Mantenimiento,Instalaron un transformador nuevo y la potencia en la zona industrial mejoró un 100% en La Alborada!!! 💪👍🙌 https://electrin.com.ar/info/60cdd,1
+116,2024-04-02,Cortes_Emergencia,El servicio volvió antes de lo previsto luego del rayo que afectó la subestación en La Alborada @juanpablo_92 #Recomendado,1
+117,2024-01-11,Cortes_Emergencia,Solucionaron la fase caída en menos de una hora de haber hecho el reporte en Villa San Martín #Recomendado 💡💡,1
+118,2024-04-11,Cortes_Emergencia,Solucionaron la fase caída en menos de una hora de haber hecho el reporte @diego_vecino #GraciasCuadrilla,1
+119,2024-11-11,Obras_Mantenimiento,Iluminación LED potente que brinda mucha más seguridad a los vecinos de noche!!! #Compromiso #BuenaAtencion 🔝👏🌟,1
+120,2024-08-24,Cortes_Emergencia,Excelente predisposición del equipo técnico que arregló el cable caído en minutos @taller_mecanico https://electrin.com.ar/info/566b5,1
+121,2024-11-03,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora... un desastre!! @panaderia_centro 😡😡,0
+122,2024-04-30,Cortes_Emergencia,Llamamos a emergencias y nos dicen que no tienen móviles disponibles en Santa Rita... un desastre!! @dr_martinez #ElectrinVerguenza,0
+123,2024-07-24,Cortes_Programados,Información clara y transparente sobre las zonas afectadas y tiempos estimados!!! 💡⚡,1
+124,2024-02-07,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo en Barrio Centro @vecinos_activos #ObrasElectrin #BuenaAtencion",1
+125,2024-02-21,Cortes_Emergencia,Divino el calor que hace adentro de casa sin ventilador ni heladera 🕯️😡,0
+126,2024-07-14,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio en Barrio Norte @juanpablo_92 ✅🙌",1
+127,2024-10-04,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras en San Cayetano @panaderia_centro,0
+128,2024-02-11,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano,0
+129,2024-09-15,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos... un desastre!! 😭🔌🚫💔,0
+130,2024-02-27,Obras_Mantenimiento,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo en La Alborada @panaderia_centro https://electrin.com.ar/info/08416,1
+131,2024-03-03,Facturacion_MediosPago,Tarifas abusivas y los aumentos no se reflejan en una mejora del servicio,0
+132,2024-09-06,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días @electrin_reclamos #Inoperantes #ElectrinVerguenza,0
+133,2024-04-12,Cortes_Programados,"Avisaron puerta por puerta en el barrio comercial, muy profesionales @sofi_alvarez",1
+134,2024-07-07,Atencion_Cliente,No contestan los mensajes directos de Instagram ni los correos de soporte en Barrio Norte @taller_mecanico #PésimoServicio,0
+135,2024-01-27,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal en Villa San Martín #Compromiso https://electrin.com.ar/info/b0ba7,1
+136,2024-02-26,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron en Las Flores... un desastre!! @comercio_local #ElectrodomesticosRotos 🤦‍♂️😡🕯️ https://electrin.com.ar/info/751db,0
+137,2024-10-17,Cortes_Programados,"Hacía falta el mantenimiento en los transformadores de nuestra zona, gracias en Parque Residencial #GraciasCuadrilla #Eficiencia 🌟🔝",1
+138,2024-04-27,Facturacion_MediosPago,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente @claudia_v,1
+139,2024-06-16,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Barrio Norte #ZonaAfectada #PésimoServicio 💔⚡❌",0
+140,2024-10-19,Obras_Mantenimiento,Se terminaron los problemas de baja tensión gracias a la nueva subestación #GraciasCuadrilla 🔝🙌,1
+141,2024-11-30,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Santa Rita... un desastre!! @carlos_rodriguez #ElectrodomesticosRotos #ElectrinVerguenza 🤬⚡❌,0
+142,2024-10-16,Atencion_Cliente,Hice el reclamo por la web oficial y la página tira error de servidor 500 @laura_estilista,0
+143,2024-05-31,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos en Barrio Sur @claudia_v #BajaTension 👎🔌🚫",0
+144,2024-02-29,Facturacion_MediosPago,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada en Barrio Centro... un desastre!! @taller_mecanico",0
+145,2024-06-02,Cortes_Emergencia,Impecable respuesta operativa ante la emergencia climática de anoche en Palermo Viejo @carlos_rodriguez #IluminacionLED 👏,1
+146,2024-08-02,Facturacion_MediosPago,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo... un desastre!! @ferreteria_sur #EmergenciaElectrica #BastaDeCortes ⚡❌",0
+147,2024-01-17,Cortes_Programados,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras en Barrio Sur #BastaDeCortes #PésimoServicio 🕯️🤦‍♂️",0
+148,2024-07-07,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada en Parque Residencial... un desastre!! #Inoperantes 🤦‍♂️,0
+149,2024-09-08,Cortes_Emergencia,"La guardia de emergencias llegó a los 20 minutos de ingresar el reclamo, impecable en Costanera #LuzEnElBarrio #Compromiso 🌟✅⚡",1
+150,2024-09-15,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo @sofi_alvarez #IluminacionLED #LuzEnElBarrio 👏👍 https://electrin.com.ar/info/b7892",1
+151,2024-07-23,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos en Microcentro #ZonaAfectada ⚡❌💔",0
+152,2024-02-05,Cortes_Programados,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Barrio Sur @diego_vecino 👎💔",0
+153,2024-06-26,Atencion_Cliente,No contestan los mensajes directos de Instagram ni los correos de soporte en San Francisco 🕯️🤬😭 https://electrin.com.ar/info/d69b2,0
+154,2024-10-27,Atencion_Cliente,Respondieron mi consulta por mensaje directo de Instagram de forma rápida y clara!!! @comercio_local #Eficiencia 💡,1
+155,2024-01-13,Facturacion_MediosPago,Quise adherirme al débito automático y me debitaron dos veces la misma boleta... un desastre!! @comercio_local #Desastre #PésimoServicio 😡😡,0
+156,2024-08-30,Facturacion_MediosPago,La descarga de boletas desde la web es instantánea y sin complicaciones en La Alborada @lucas_martinez ⚡👍💡,1
+157,2024-06-21,Cortes_Programados,Dijeron que el corte era de 2 horas y ya van 6 horas sin luz en San Cayetano @panaderia_centro 😡🕯️,0
+158,2024-01-24,Facturacion_MediosPago,"El débito automático funciona impecable, nunca un problema ni cobro duplicado!!! 💡",1
+159,2024-04-09,Facturacion_MediosPago,"Factura muy clara, bien detallados los subsidios y el historial de consumos en Santa Rita!!! @carlos_rodriguez #ExcelenteServicio 🌟💪😀",1
+160,2024-04-21,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días 🕯️ https://electrin.com.ar/info/67798,0
+161,2024-11-08,Cortes_Emergencia,"Divina la respuesta de soporte, me dijeron que compre un grupo electrógeno en Microcentro... un desastre!! #Inoperantes",0
+162,2024-11-18,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya en Barrio Norte... un desastre!! @comercio_local 😤",0
+163,2024-07-08,Cortes_Programados,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras 😡👎",0
+164,2024-01-23,Cortes_Emergencia,"Fase caída hace dos días, no podemos encender ni la bomba de agua en Las Flores... un desastre!! @laura_estilista 😤🤦‍♂️",0
+165,2024-03-23,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo en Los Aromos @taller_mecanico 💔⚡❌⚡❌ https://electrin.com.ar/info/50021",0
+166,2024-08-20,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada en La Alborada #BastaDeCortes",0
+167,2024-07-03,Atencion_Cliente,El sistema de notificaciones por SMS te mantiene informado de todo el estado en Villa San Martín @lucas_martinez 💡😀,1
+168,2024-07-24,Facturacion_MediosPago,"El código QR para pagar en la web no funciona, no valida el comprobante en Costanera... un desastre!! #PésimoServicio #ElectrodomesticosRotos 👎",0
+169,2024-03-30,Cortes_Emergencia,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada... un desastre!! @vecinos_activos #EmergenciaElectrica",0
+170,2024-11-02,Obras_Mantenimiento,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Las Acacias 💪,1
+171,2024-09-14,Cortes_Programados,"Tercer corte programado en la semana, no se puede vivir así en Villa San Martín 🤦‍♂️🕯️🕯️",0
+172,2024-11-20,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en San Cayetano... un desastre!! #ReclamoElectrin #BajaTension,0
+173,2024-10-26,Facturacion_MediosPago,La consulta de saldo por WhatsApp es instantánea y muy cómoda @lucas_martinez #Recomendado,1
+174,2024-02-18,Cortes_Programados,"Pésima planificación, siempre cortan los días de mayor calor en Los Aromos @claudia_v 😤",0
+175,2024-01-08,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras... un desastre!! ⚡❌🤦‍♂️⚡❌,0
+176,2024-07-08,Cortes_Emergencia,"Fase caída hace dos días, no podemos encender ni la bomba de agua @dr_martinez #CorteDeLuz 🤬😤😡",0
+177,2024-05-23,Facturacion_MediosPago,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada en Barrio Sur #BastaDeCortes #QueremosLuz ⚡❌😭👎 https://electrin.com.ar/info/42635",0
+178,2024-10-24,Facturacion_MediosPago,Facilidades de pago claras y acreditación inmediata del comprobante!!! @electrin_oficial 👍⚡,1
+179,2024-10-27,Obras_Mantenimiento,"Cuadrillas muy profesionales, dejaron la vereda perfectamente limpia y señalizada #LuzEnElBarrio",1
+180,2024-09-17,Facturacion_MediosPago,Tarifas abusivas y los aumentos no se reflejan en una mejora del servicio... un desastre!! @lucas_martinez #PésimoServicio 😤💔😡,0
+181,2024-02-17,Cortes_Programados,Se nota la mejora en la calidad y estabilidad de la tensión luego de los trabajos en Costanera!!! @lucas_martinez #IluminacionLED,1
+182,2024-05-11,Cortes_Emergencia,Explotó un transformador en la esquina y salieron chispas por todos lados en Las Flores @electrin_oficial #ReclamoElectrin #PésimoServicio 👎🤬,0
+183,2024-08-03,Cortes_Programados,Buena iniciativa de publicar los mapas interactivos de corte en Instagram en Microcentro!!! @claudia_v #BuenaAtencion #ExcelenteServicio,1
+184,2024-03-25,Facturacion_MediosPago,"Pude adherirme al pago sin papel en dos minutos, muy práctico y ecológico",1
+185,2024-01-26,Facturacion_MediosPago,La descarga de boletas desde la web es instantánea y sin complicaciones en Barrio Sur 💡👏 https://electrin.com.ar/info/84124,1
+186,2024-10-16,Atencion_Cliente,"Una belleza de servicio técnico, vinieron, miraron el transformador y se fueron #BajaTension 🤬",0
+187,2024-02-13,Cortes_Programados,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo en Las Acacias @carlos_rodriguez",0
+188,2024-04-26,Cortes_Emergencia,Impecable respuesta operativa ante la emergencia climática de anoche @ferreteria_sur,1
+189,2024-01-06,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón... un desastre!! #CorteDeLuz 🕯️🔌🚫,0
+190,2024-11-22,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en Barrio Sur #PésimoServicio #SinLuz 🤬🤦‍♂️🕯️,0
+191,2024-03-09,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en Microcentro @juanpablo_92 #ZonaAfectada 😭🤬,0
+192,2024-09-22,Obras_Mantenimiento,Rompieron la vereda recién hecha para pasar un cable y la dejaron sin revocar... un desastre!! #SinLuz #CorteDeLuz 🔌🚫🕯️,0
+193,2024-02-06,Cortes_Emergencia,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en San Cayetano @sofi_alvarez #SinLuz #ElectrinVerguenza,0
+194,2024-11-14,Facturacion_MediosPago,La descarga de boletas desde la web es instantánea y sin complicaciones @electrin_reclamos 💡👏,1
+195,2024-11-05,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora en Parque Residencial... un desastre!! #QueremosLuz 👎😤,0
+196,2024-05-16,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras en Altos del Valle... un desastre!! #SinLuz 😤🕯️,0
+197,2024-07-25,Cortes_Emergencia,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras en San Francisco... un desastre!! @vecinos_activos #EmergenciaElectrica #BajaTension 🤦‍♂️",0
+198,2024-11-16,Atencion_Cliente,Qué linda sorpresa el aumento del triple en la factura de este mes en La Alborada #BastaDeCortes #SinLuz 😭,0
+199,2024-09-29,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución @carlos_rodriguez #ElectrodomesticosRotos 😭,0
+200,2024-11-09,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada... un desastre!!,0
+201,2024-06-23,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Barrio Centro @electrin_reclamos #ElectrinVerguenza #BajaTension ⚡❌⚡❌🤦‍♂️,0
+202,2024-05-09,Atencion_Cliente,"Excelente atención del operador telefónico, muy amable y resolutivo #IluminacionLED 👍🙌🙌",1
+203,2024-09-01,Cortes_Programados,Información clara y transparente sobre las zonas afectadas y tiempos estimados en Villa San Martín @ferreteria_sur #EnergiaElectrica #ExcelenteServicio,1
+204,2024-06-06,Cortes_Emergencia,"Se cortó la luz de golpe sin aviso, no anda nada en Barrio Sur... un desastre!! 🔌🚫👎🔌🚫",0
+205,2024-04-13,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor,0
+206,2024-11-28,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en Villa San Martín #ElectrinResponde 👍🔝,1
+207,2024-11-09,Facturacion_MediosPago,El sistema no reconoce el comprobante de pago de Pago Fácil en San Francisco @comercio_local #ReclamoElectrin #QueremosLuz 🤦‍♂️,0
+208,2024-03-19,Cortes_Emergencia,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo en Parque Residencial... un desastre!! #BajaTension #CorteDeLuz 🤦‍♂️👎",0
+209,2024-02-18,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en Microcentro,1
+210,2024-06-16,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada 😡😭",0
+211,2024-03-09,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' @laura_estilista 🤬⚡❌ https://electrin.com.ar/info/19a99,0
+212,2024-02-11,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal en Barrio Norte @carlos_rodriguez #Recomendado,1
+213,2024-03-26,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor en San Francisco... un desastre!! #PésimoServicio #ReclamoElectrin 😡😡😭,0
+214,2024-11-04,Cortes_Emergencia,"Divina la respuesta de soporte, me dijeron que compre un grupo electrógeno 🤦‍♂️😤 https://electrin.com.ar/info/89b9f",0
+215,2024-10-14,Facturacion_MediosPago,La consulta de saldo por WhatsApp es instantánea y muy cómoda en Barrio Centro!!! #Recomendado 🔝😀,1
+216,2024-02-14,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan... un desastre!! #BastaDeCortes #ElectrinVerguenza 😤🔌🚫,0
+217,2024-09-13,Cortes_Emergencia,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo #ExcelenteServicio #IluminacionLED 💪🙌👍,1
+218,2024-04-04,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna en Altos del Valle 😀",1
+219,2024-08-02,Cortes_Programados,Nos dejaron sin suministro a todo el barrio y nadie da explicaciones en Palermo Viejo... un desastre!! #ElectrinVerguenza #EmergenciaElectrica 🔌🚫😭🤬,0
+220,2024-11-29,Atencion_Cliente,Seguimiento impecable del reclamo hasta confirmar que teníamos servicio normal en San Cayetano!!! @sofi_alvarez 🔝🙌 https://electrin.com.ar/info/0fc36,1
+221,2024-03-22,Facturacion_MediosPago,Quise adherirme al débito automático y me debitaron dos veces la misma boleta... un desastre!! 😭🕯️,0
+222,2024-07-04,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal @claudia_v #Eficiencia 🙌⚡,1
+223,2024-08-29,Obras_Mantenimiento,Colocaron nuevo cableado preensamblado en el barrio y ya no hay parpadeos de luz @claudia_v #ElectrinResponde #LuzEnElBarrio ✅,1
+224,2024-10-14,Atencion_Cliente,Qué linda sorpresa el aumento del triple en la factura de este mes en Las Flores #CorteDeLuz 🤦‍♂️🤦‍♂️🤦‍♂️,0
+225,2024-01-14,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución en Barrio Centro #ReclamoElectrin ⚡❌😡⚡❌ https://electrin.com.ar/info/0e747,0
+226,2024-02-01,Cortes_Programados,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en San Francisco #ObrasElectrin #GraciasCuadrilla 😀✅ https://electrin.com.ar/info/0fcb6,1
+227,2024-03-09,Cortes_Programados,Excelente que avisen con 48hs de anticipación con mapa claro de las zonas en Zona Industrial 🙌,1
+228,2024-03-31,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada en Costanera 👎,0
+229,2024-10-20,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada #ZonaAfectada #Desastre 💔😡",0
+230,2024-08-30,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya en Costanera 🤦‍♂️🤦‍♂️⚡❌",0
+231,2024-11-26,Cortes_Emergencia,Hay cables caídos con tensión en plena vereda y es un peligro para los chicos... un desastre!! @lucas_martinez 😡💔😤,0
+232,2024-07-21,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en Santa Rita @carlos_rodriguez #QueremosLuz 😡,0
+233,2024-04-26,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo en Santa Rita!!! @carlos_rodriguez 🔝👏,1
+234,2024-05-23,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en San Francisco @lucas_martinez 🕯️😤💔 https://electrin.com.ar/info/2f734,0
+235,2024-02-11,Cortes_Programados,"Tercer corte programado en la semana, no se puede vivir así en Villa San Martín 🤦‍♂️😤🤬",0
+236,2024-04-28,Facturacion_MediosPago,Muy buena la bonificación por ahorro de energía en el último bimestre!!!,1
+237,2024-10-13,Atencion_Cliente,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Las Acacias @vecinos_activos #BajaTension #EmergenciaElectrica 🔌🚫😭 https://electrin.com.ar/info/9414f",0
+238,2024-10-12,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada en Barrio Norte #ReclamoElectrin 😤💔",0
+239,2024-04-06,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado #ReclamoElectrin",0
+240,2024-09-22,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas en Parque Residencial #ExcelenteServicio 💡",1
+241,2024-07-21,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas!!! #Eficiencia 👏👏,1
+242,2024-02-04,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas en Los Aromos!!! 💡",1
+243,2024-06-06,Atencion_Cliente,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Altos del Valle ✅😀,1
+244,2024-07-03,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano en San Francisco... un desastre!! 😭,0
+245,2024-03-25,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Altos del Valle... un desastre!! #ElectrodomesticosRotos 😤😤🤦‍♂️",0
+246,2024-11-20,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna en San Cayetano #ElectrinResponde #LuzEnElBarrio",1
+247,2024-09-05,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada en Parque Residencial... un desastre!! 🤦‍♂️😡",0
+248,2024-10-29,Obras_Mantenimiento,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en Las Acacias... un desastre!! @taller_mecanico 🤦‍♂️👎 https://electrin.com.ar/info/58252,0
+249,2024-08-23,Facturacion_MediosPago,"Estuvimos sin luz un rato por el rayo pero el servicio volvió antes de lo previsto, gracias en Parque Residencial #Compromiso 🔝😀",1
+250,2024-09-25,Cortes_Emergencia,"Se cortó la luz de golpe sin aviso, no anda nada en Palermo Viejo #PésimoServicio 💔🔌🚫",0
+251,2024-06-14,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna en Barrio Norte!!! @diego_vecino",1
+252,2024-10-29,Obras_Mantenimiento,Hicieron zanjeo en la vereda para cambiar cables y dejaron el pozo abierto sin tapar... un desastre!! #ElectrinVerguenza #QueremosLuz,0
+253,2024-09-08,Facturacion_MediosPago,"La nueva app móvil funciona de diez, pagué la factura en un clic con débito en Las Acacias!!!",1
+254,2024-05-06,Facturacion_MediosPago,"El código QR para pagar en la web no funciona, no valida el comprobante en Barrio Sur ⚡❌",0
+255,2024-06-14,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada en San Cayetano... un desastre!! @carlos_rodriguez,0
+256,2024-01-16,Cortes_Programados,"Avisaron puerta por puerta en el barrio comercial, muy profesionales 👍💡👍",1
+257,2024-05-03,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras en Barrio Centro... un desastre!! #QueremosLuz,0
+258,2024-10-11,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en San Cayetano... un desastre!! @diego_vecino 🤦‍♂️😭",0
+259,2024-04-16,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas en Costanera @carlos_rodriguez ✅⚡⚡",1
+260,2024-09-07,Atencion_Cliente,"La atención en la oficina central fue pésima, te atienden de mala gana... un desastre!! @laura_estilista 🤬 https://electrin.com.ar/info/91a79",0
+261,2024-05-20,Atencion_Cliente,Divino el calor que hace adentro de casa sin ventilador ni heladera en Villa Belgrano #SinLuz #ElectrinVerguenza 🕯️😡⚡❌,0
+262,2024-02-22,Cortes_Programados,"Tercer corte programado en la semana, no se puede vivir así en Microcentro @mariana_gomez #PésimoServicio 👎😤💔",0
+263,2024-02-11,Cortes_Programados,"Tercer corte programado en la semana, no se puede vivir así en Santa Rita @lucas_martinez #ElectrinVerguenza 💔",0
+264,2024-11-03,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada en Costanera 🤦‍♂️😡⚡❌",0
+265,2024-11-17,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' @electrin_reclamos,0
+266,2024-06-22,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Parque Residencial @vecinos_activos #QueremosLuz #Desastre 💔🤦‍♂️",0
+267,2024-09-08,Cortes_Programados,La factura vino un poco más cara pero la app para pagar en cuotas ayudó bastante en Palermo Viejo!!! 💪,1
+268,2024-09-20,Facturacion_MediosPago,La factura digital llega siempre puntual al correo electrónico con recordatorio en Las Acacias @juanpablo_92 ⚡,1
+269,2024-08-08,Obras_Mantenimiento,Qué linda sorpresa el aumento del triple en la factura de este mes... un desastre!! 😤⚡❌ https://electrin.com.ar/info/e0e71,0
+270,2024-07-08,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en Barrio Norte @lucas_martinez #BastaDeCortes 🕯️🕯️ https://electrin.com.ar/info/a27f5",0
+271,2024-08-25,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte en Altos del Valle... un desastre!! @mariana_gomez #BastaDeCortes 🕯️,0
+272,2024-05-15,Atencion_Cliente,Divino el calor que hace adentro de casa sin ventilador ni heladera en San Cayetano... un desastre!! #EmergenciaElectrica 😤💔,0
+273,2024-05-02,Atencion_Cliente,El trámite de cambio de titularidad fue 100% online y se aprobó en 24 horas en Los Aromos #ElectrinResponde ✅🔝 https://electrin.com.ar/info/c4b49,1
+274,2024-11-23,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad @panaderia_centro #BuenaAtencion,1
+275,2024-10-29,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos @juanpablo_92 #BajaTension #CorteDeLuz",0
+276,2024-08-06,Cortes_Emergencia,Destaco el compromiso de los trabajadores de guardia en plena madrugada en Las Flores @laura_estilista #EnergiaElectrica #ServicioRestablecido 💡🙌✅,1
+277,2024-02-25,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido en San Francisco @juanpablo_92 #Eficiencia,1
+278,2024-09-25,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos... un desastre!! 👎😭",0
+279,2024-06-01,Cortes_Programados,"Pésima planificación, siempre cortan los días de mayor calor... un desastre!! @panaderia_centro #ElectrinVerguenza #CorteDeLuz",0
+280,2024-09-04,Obras_Mantenimiento,Luminarias nuevas apagadas desde el primer día que las instalaron en Barrio Sur @mariana_gomez,0
+281,2024-04-13,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera en Los Aromos @juanpablo_92 #PésimoServicio ⚡❌🔌🚫🕯️,0
+282,2024-04-29,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en Zona Industrial 👎👎,0
+283,2024-06-09,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en Las Flores... un desastre!! #EmergenciaElectrica",0
+284,2024-06-18,Atencion_Cliente,El sistema de notificaciones por SMS te mantiene informado de todo el estado en Altos del Valle!!! @taller_mecanico #Eficiencia #IluminacionLED,1
+285,2024-03-16,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en La Alborada @sofi_alvarez #ZonaAfectada #EmergenciaElectrica 😡,0
+286,2024-03-20,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en San Cayetano #BajaTension 🔌🚫😤",0
+287,2024-04-10,Obras_Mantenimiento,Rompieron la vereda recién hecha para pasar un cable y la dejaron sin revocar en Barrio Sur,0
+288,2024-05-12,Obras_Mantenimiento,Hicieron zanjeo en la vereda para cambiar cables y dejaron el pozo abierto sin tapar en Santa Rita... un desastre!! #ElectrodomesticosRotos 🕯️ https://electrin.com.ar/info/8a7cc,0
+289,2024-03-15,Facturacion_MediosPago,Imposible entender el desglose de conceptos e impuestos en la boleta en La Alborada... un desastre!! @dr_martinez,0
+290,2024-10-30,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor en San Cayetano @comercio_local #Desastre #ZonaAfectada 👎,0
+291,2024-02-24,Cortes_Programados,Información clara y transparente sobre las zonas afectadas y tiempos estimados en Villa Belgrano @dr_martinez #IluminacionLED #GraciasCuadrilla,1
+292,2024-11-05,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo en Palermo Viejo... un desastre!! @taller_mecanico #SinLuz #Desastre 😡",0
+293,2024-02-11,Facturacion_MediosPago,"El código QR para pagar en la web no funciona, no valida el comprobante en Barrio Norte",0
+294,2024-08-18,Facturacion_MediosPago,Excelente la opción de pago con QR interoperable y factura digital automática en Zona Industrial #ExcelenteServicio 💡✅💪,1
+295,2024-05-26,Cortes_Programados,Se nota la mejora en la calidad y estabilidad de la tensión luego de los trabajos en San Cayetano ⚡,1
+296,2024-09-10,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan #ElectrinVerguenza 🔌🚫,0
+297,2024-08-08,Cortes_Programados,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras 🤦‍♂️",0
+298,2024-06-11,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada en Barrio Sur... un desastre!! @claudia_v https://electrin.com.ar/info/7d320",0
+299,2024-03-06,Facturacion_MediosPago,Facilidades de pago claras y acreditación inmediata del comprobante!!! #LuzEnElBarrio 👏⚡⚡,1
+300,2024-03-06,Facturacion_MediosPago,Imposible entender el desglose de conceptos e impuestos en la boleta en San Francisco... un desastre!! @electrin_reclamos #QueremosLuz #ElectrinVerguenza,0
+301,2024-04-03,Facturacion_MediosPago,Divino el calor que hace adentro de casa sin ventilador ni heladera en Barrio Centro... un desastre!! @diego_vecino #QueremosLuz 👎,0
+302,2024-03-30,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado @mariana_gomez 👎🤦‍♂️😭",0
+303,2024-11-10,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Palermo Viejo... un desastre!! https://electrin.com.ar/info/fa6f1,0
+304,2024-09-26,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Parque Residencial #EmergenciaElectrica 💔🕯️😤,0
+305,2024-10-14,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos'... un desastre!!,0
+306,2024-04-30,Atencion_Cliente,El trámite de alta de suministro para comercio fue ágil y sin burocracia en Barrio Norte @comercio_local #Compromiso ⚡,1
+307,2024-10-11,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Barrio Centro @ferreteria_sur #BajaTension 😤",0
+308,2024-06-14,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Costanera... un desastre!! #EmergenciaElectrica 😡💔,0
+309,2024-06-26,Obras_Mantenimiento,"Una belleza de servicio técnico, vinieron, miraron el transformador y se fueron en Santa Rita... un desastre!! 💔🕯️⚡❌ https://electrin.com.ar/info/edfdd",0
+310,2024-08-14,Cortes_Programados,"Divina la respuesta de soporte, me dijeron que compre un grupo electrógeno en Barrio Sur @claudia_v #BajaTension",0
+311,2024-05-31,Facturacion_MediosPago,El sistema no reconoce el comprobante de pago de Pago Fácil... un desastre!! @ferreteria_sur 🤦‍♂️⚡❌💔 https://electrin.com.ar/info/dc930,0
+312,2024-07-23,Facturacion_MediosPago,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en Barrio Centro #ElectrinResponde https://electrin.com.ar/info/1c999,1
+313,2024-04-04,Atencion_Cliente,"Muy buena atención presencial en la sucursal, rápida y con turno ordenado en Altos del Valle @carlos_rodriguez #ObrasElectrin 👏😀",1
+314,2024-04-27,Facturacion_MediosPago,El sistema no reconoce el comprobante de pago de Pago Fácil en Las Acacias #Desastre #PésimoServicio 🤬,0
+315,2024-06-18,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal en San Francisco #GraciasCuadrilla 🔝👍,1
+316,2024-09-19,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores en Parque Residencial 🕯️🤬,0
+317,2024-10-10,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor... un desastre!! @claudia_v #PésimoServicio 🤬,0
+318,2024-08-05,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos 🤦‍♂️,0
+319,2024-03-27,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera en San Francisco,0
+320,2024-08-17,Cortes_Programados,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en Villa San Martín @lucas_martinez #Inoperantes #QueremosLuz 👎,0
+321,2024-07-30,Facturacion_MediosPago,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo... un desastre!! @comercio_local ⚡❌⚡❌😭,0
+322,2024-05-10,Facturacion_MediosPago,Muy buena la bonificación por ahorro de energía en el último bimestre!!! @vecinos_activos #ServicioRestablecido https://electrin.com.ar/info/60bc9,1
+323,2024-11-09,Cortes_Emergencia,Muy atentos los técnicos que verificaron que la tensión en los domicilios sea correcta en Los Aromos!!! ⚡,1
+324,2024-06-26,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado en Costanera @claudia_v ⚡❌🤬💔",0
+325,2024-03-11,Facturacion_MediosPago,La factura digital llega siempre puntual al correo electrónico con recordatorio #LuzEnElBarrio #Compromiso,1
+326,2024-11-01,Atencion_Cliente,"Una belleza de servicio técnico, vinieron, miraron el transformador y se fueron en Zona Industrial @claudia_v 🤬🤦‍♂️",0
+327,2024-07-12,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Villa San Martín @claudia_v https://electrin.com.ar/info/16706,0
+328,2024-06-03,Obras_Mantenimiento,Iluminación LED potente que brinda mucha más seguridad a los vecinos de noche en Villa Belgrano!!! 👍✅👏,1
+329,2024-04-18,Atencion_Cliente,El sistema de notificaciones por SMS te mantiene informado de todo el estado en Costanera #ElectrinResponde 🌟😀,1
+330,2024-02-14,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en San Francisco 👎,0
+331,2024-07-29,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo #GraciasCuadrilla 🌟👏",1
+332,2024-07-13,Obras_Mantenimiento,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo... un desastre!! 👎🤦‍♂️😭 https://electrin.com.ar/info/a79c7,0
+333,2024-06-30,Atencion_Cliente,El trámite de alta de suministro para comercio fue ágil y sin burocracia!!! @juanpablo_92 ⚡,1
+334,2024-03-01,Obras_Mantenimiento,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en San Cayetano #PésimoServicio #ElectrodomesticosRotos 👎😤,0
+335,2024-09-29,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance #QueremosLuz 😤🤬⚡❌,0
+336,2024-04-21,Cortes_Emergencia,Llevamos más de 24 horas sin luz y no vino ninguna cuadrilla... un desastre!! @diego_vecino 😭🔌🚫 https://electrin.com.ar/info/4997d,0
+337,2024-05-21,Obras_Mantenimiento,"Cuadrillas muy profesionales, dejaron la vereda perfectamente limpia y señalizada #ElectrinResponde 💡 https://electrin.com.ar/info/d350b",1
+338,2024-03-01,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte... un desastre!! @ferreteria_sur 🕯️😡,0
+339,2024-06-24,Atencion_Cliente,No contestan los mensajes directos de Instagram ni los correos de soporte en San Cayetano #CorteDeLuz 😭,0
+340,2024-05-28,Atencion_Cliente,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras en Santa Rita... un desastre!!",0
+341,2024-01-23,Atencion_Cliente,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en Barrio Norte @diego_vecino #IluminacionLED #GraciasCuadrilla https://electrin.com.ar/info/ee01e,1
+342,2024-11-28,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión... un desastre!! @panaderia_centro #Inoperantes 🕯️👎 https://electrin.com.ar/info/4d576",0
+343,2024-11-06,Cortes_Emergencia,Qué linda sorpresa el aumento del triple en la factura de este mes en Barrio Norte @electrin_reclamos 🤦‍♂️⚡❌,0
+344,2024-11-07,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora en Villa San Martín... un desastre!! @taller_mecanico #QueremosLuz #ElectrinVerguenza 😭,0
+345,2024-10-13,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio en Villa San Martín 🙌😀✅",1
+346,2024-03-12,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras @ferreteria_sur #BajaTension,0
+347,2024-10-22,Cortes_Programados,Excelente que avisen con 48hs de anticipación con mapa claro de las zonas en Villa Belgrano #EnergiaElectrica 😀😀,1
+348,2024-03-29,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras #CorteDeLuz #Inoperantes 🕯️,0
+349,2024-01-28,Cortes_Programados,Muy buena organización en las obras preventivas para evitar cortes en verano en Parque Residencial 💡 https://electrin.com.ar/info/4aecc,1
+350,2024-06-18,Obras_Mantenimiento,Luminarias nuevas apagadas desde el primer día que las instalaron en Barrio Centro @vecinos_activos #Inoperantes #CorteDeLuz https://electrin.com.ar/info/44039,0
+351,2024-01-25,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión... un desastre!! 👎🤬💔 https://electrin.com.ar/info/bc652",0
+352,2024-05-24,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Villa San Martín... un desastre!! #EmergenciaElectrica 😡 https://electrin.com.ar/info/addfe",0
+353,2024-11-20,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en San Francisco,1
+354,2024-02-05,Facturacion_MediosPago,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada en San Francisco",0
+355,2024-03-16,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo en Microcentro!!! 💪",1
+356,2024-03-25,Atencion_Cliente,Trámite de cambio de titularidad rechazado tres veces sin explicar el motivo en Palermo Viejo 🔌🚫🔌🚫🕯️,0
+357,2024-07-17,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en Microcentro 😤,0
+358,2024-03-23,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron... un desastre!! @laura_estilista #QueremosLuz #ZonaAfectada 🕯️ https://electrin.com.ar/info/db268,0
+359,2024-09-22,Obras_Mantenimiento,Hicieron zanjeo en la vereda para cambiar cables y dejaron el pozo abierto sin tapar @juanpablo_92 #QueremosLuz 💔👎😤 https://electrin.com.ar/info/1f893,0
+360,2024-02-20,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera... un desastre!! #ElectrodomesticosRotos #ZonaAfectada 😭,0
+361,2024-03-31,Obras_Mantenimiento,Rompieron la vereda recién hecha para pasar un cable y la dejaron sin revocar en Las Flores... un desastre!! @vecinos_activos #BastaDeCortes #Desastre 🕯️⚡❌,0
+362,2024-09-03,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna!!! #Eficiencia ⚡👏 https://electrin.com.ar/info/3fb51",1
+363,2024-05-15,Cortes_Programados,Muy buena organización en las obras preventivas para evitar cortes en verano en Villa San Martín!!! #Recomendado #Eficiencia 🔝💡✅,1
+364,2024-04-29,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas!!! @carlos_rodriguez #BuenaAtencion #EnergiaElectrica 💡🙌💪,1
+365,2024-06-03,Cortes_Emergencia,Excelente predisposición del equipo técnico que arregló el cable caído en minutos en Costanera 🔝👏⚡,1
+366,2024-04-03,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas en San Cayetano @laura_estilista #GraciasCuadrilla 🔝👍🌟",1
+367,2024-01-07,Facturacion_MediosPago,"El débito automático funciona impecable, nunca un problema ni cobro duplicado #ElectrinResponde #EnergiaElectrica ✅",1
+368,2024-02-25,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas en Costanera 🌟",1
+369,2024-10-01,Facturacion_MediosPago,La factura digital llega siempre puntual al correo electrónico con recordatorio en Zona Industrial #GraciasCuadrilla #ExcelenteServicio https://electrin.com.ar/info/b001a,1
+370,2024-10-29,Obras_Mantenimiento,Luminarias nuevas apagadas desde el primer día que las instalaron en Las Acacias 😤👎,0
+371,2024-02-05,Cortes_Emergencia,Hay cables caídos con tensión en plena vereda y es un peligro para los chicos en Barrio Sur... un desastre!! https://electrin.com.ar/info/f793a,0
+372,2024-06-24,Cortes_Programados,Información clara y transparente sobre las zonas afectadas y tiempos estimados en San Francisco #IluminacionLED #LuzEnElBarrio ⚡,1
+373,2024-06-18,Obras_Mantenimiento,Se terminaron los problemas de baja tensión gracias a la nueva subestación en Villa San Martín!!! @taller_mecanico #Recomendado ✅,1
+374,2024-07-24,Obras_Mantenimiento,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo en Microcentro 💡,1
+375,2024-02-23,Cortes_Emergencia,Explotó un transformador en la esquina y salieron chispas por todos lados en San Francisco #Desastre 🔌🚫😤,0
+376,2024-10-23,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera #BastaDeCortes #EmergenciaElectrica,0
+377,2024-02-27,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada 😤🕯️👎",0
+378,2024-03-27,Facturacion_MediosPago,"Factura muy clara, bien detallados los subsidios y el historial de consumos @panaderia_centro",1
+379,2024-09-06,Facturacion_MediosPago,Me vino el triple de consumo en la factura sin justificación alguna en Microcentro @diego_vecino #ReclamoElectrin,0
+380,2024-04-15,Obras_Mantenimiento,Se terminaron los problemas de baja tensión gracias a la nueva subestación en San Cayetano @electrin_reclamos,1
+381,2024-06-11,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón 😭👎🤬,0
+382,2024-07-14,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan @mariana_gomez #QueremosLuz 😭👎,0
+383,2024-07-08,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance en Villa San Martín... un desastre!! @lucas_martinez 👎🤦‍♂️,0
+384,2024-04-25,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor en Las Flores @panaderia_centro,0
+385,2024-10-22,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan en Barrio Centro 😡💔😤,0
+386,2024-04-02,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera en Santa Rita 🤬👎,0
+387,2024-10-11,Facturacion_MediosPago,"El débito automático funciona impecable, nunca un problema ni cobro duplicado en Parque Residencial!!! 👏",1
+388,2024-10-12,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en San Francisco... un desastre!! @panaderia_centro 🕯️😤🕯️,0
+389,2024-10-20,Facturacion_MediosPago,"Divina la respuesta de soporte, me dijeron que compre un grupo electrógeno en Los Aromos @sofi_alvarez",0
+390,2024-04-25,Cortes_Emergencia,Llamamos a emergencias y nos dicen que no tienen móviles disponibles @carlos_rodriguez #ElectrodomesticosRotos #SinLuz 😭🔌🚫🕯️,0
+391,2024-11-11,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada en Las Acacias,0
+392,2024-01-22,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo en Barrio Norte #BastaDeCortes #SinLuz 👎🔌🚫🤦‍♂️",0
+393,2024-03-30,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en Las Flores #PésimoServicio",0
+394,2024-04-16,Atencion_Cliente,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena 👏🙌⚡,1
+395,2024-02-12,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano en Las Flores #QueremosLuz #Desastre 😭💔👎,0
+396,2024-10-25,Atencion_Cliente,"Excelente atención del operador telefónico, muy amable y resolutivo",1
+397,2024-06-22,Atencion_Cliente,"Muy buena atención presencial en la sucursal, rápida y con turno ordenado @claudia_v",1
+398,2024-11-08,Cortes_Programados,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo en Las Flores 😡😡,0
+399,2024-04-05,Obras_Mantenimiento,Colocaron nuevo cableado preensamblado en el barrio y ya no hay parpadeos de luz en Barrio Sur @carlos_rodriguez #ServicioRestablecido 💪,1
+400,2024-01-22,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Santa Rita #ZonaAfectada 🕯️🔌🚫,0
+401,2024-09-20,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución en Costanera @juanpablo_92 #PésimoServicio 😤🤦‍♂️,0
+402,2024-06-28,Facturacion_MediosPago,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Las Acacias @juanpablo_92 #BuenaAtencion #Recomendado ✅😀😀,1
+403,2024-05-01,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte... un desastre!! 💔😤,0
+404,2024-09-01,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos @taller_mecanico #ReclamoElectrin #SinLuz 🤦‍♂️😤,0
+405,2024-08-27,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido en Zona Industrial!!! @taller_mecanico 🔝,1
+406,2024-05-07,Cortes_Programados,"Avisaron puerta por puerta en el barrio comercial, muy profesionales!!! 🌟👍",1
+407,2024-03-05,Cortes_Programados,Buena iniciativa de publicar los mapas interactivos de corte en Instagram en San Cayetano @vecinos_activos 🔝✅✅,1
+408,2024-04-19,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera en Las Flores 🤬🤬,0
+409,2024-05-03,Cortes_Programados,"Corte programado sin aviso previo en la app ni por correo, una falta de respeto... un desastre!! #ElectrinVerguenza #CorteDeLuz 👎😡💔",0
+410,2024-05-12,Atencion_Cliente,Seguimiento impecable del reclamo hasta confirmar que teníamos servicio normal en Villa San Martín @ferreteria_sur #ElectrinResponde #ObrasElectrin,1
+411,2024-08-22,Atencion_Cliente,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Las Acacias... un desastre!! #Desastre #BastaDeCortes 😭🤬🤬",0
+412,2024-01-23,Atencion_Cliente,"La atención en la oficina central fue pésima, te atienden de mala gana @lucas_martinez",0
+413,2024-04-21,Facturacion_MediosPago,La factura digital llega siempre puntual al correo electrónico con recordatorio en Villa Belgrano,1
+414,2024-09-30,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en San Cayetano @diego_vecino #ElectrinVerguenza #ElectrodomesticosRotos https://electrin.com.ar/info/24fc5,0
+415,2024-01-15,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en La Alborada #ExcelenteServicio #ObrasElectrin,1
+416,2024-07-20,Facturacion_MediosPago,Imposible entender el desglose de conceptos e impuestos en la boleta en Palermo Viejo,0
+417,2024-09-21,Atencion_Cliente,"La atención en la oficina central fue pésima, te atienden de mala gana #EmergenciaElectrica #Desastre 😡 https://electrin.com.ar/info/17ef3",0
+418,2024-03-29,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores en Villa San Martín,0
+419,2024-06-30,Facturacion_MediosPago,Muy buena la bonificación por ahorro de energía en el último bimestre en Costanera @mariana_gomez ⚡🔝,1
+420,2024-04-26,Atencion_Cliente,El sistema de notificaciones por SMS te mantiene informado de todo el estado en Palermo Viejo #GraciasCuadrilla #ServicioRestablecido,1
+421,2024-03-24,Atencion_Cliente,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo en Costanera",0
+422,2024-08-26,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron 🔌🚫,0
+423,2024-05-10,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en San Francisco #EmergenciaElectrica #ZonaAfectada,0
+424,2024-06-19,Obras_Mantenimiento,Dejaron escombros y cables viejos tirados frente a las entradas de los garages en Las Acacias... un desastre!! ⚡❌😤💔,0
+425,2024-04-30,Facturacion_MediosPago,"Factura muy clara, bien detallados los subsidios y el historial de consumos!!! #IluminacionLED 👍✅🙌",1
+426,2024-02-01,Atencion_Cliente,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en Santa Rita @mariana_gomez 😭💔⚡❌,0
+427,2024-05-09,Cortes_Emergencia,"Se cortó la luz de golpe sin aviso, no anda nada en Barrio Norte... un desastre!! @taller_mecanico 🤦‍♂️🤬🕯️",0
+428,2024-01-05,Cortes_Programados,La factura vino un poco más cara pero la app para pagar en cuotas ayudó bastante!!! @juanpablo_92 https://electrin.com.ar/info/9f523,1
+429,2024-02-03,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz @panaderia_centro #GraciasCuadrilla #ServicioRestablecido ✅💪💡,1
+430,2024-04-09,Cortes_Programados,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Zona Industrial!!! @comercio_local #Compromiso,1
+431,2024-03-10,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada @carlos_rodriguez 💔",0
+432,2024-05-08,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz!!! @taller_mecanico #IluminacionLED 🙌🔝,1
+433,2024-08-24,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad 💡🔝👍,1
+434,2024-09-25,Atencion_Cliente,Trámite de cambio de titularidad rechazado tres veces sin explicar el motivo en Santa Rita... un desastre!! #Inoperantes #CorteDeLuz 💔,0
+435,2024-03-31,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano en Barrio Sur ⚡❌😤,0
+436,2024-11-26,Obras_Mantenimiento,La factura vino un poco más cara pero la app para pagar en cuotas ayudó bastante en Parque Residencial @vecinos_activos #Eficiencia,1
+437,2024-06-20,Cortes_Emergencia,"Se cortó la luz de golpe sin aviso, no anda nada en Villa San Martín... un desastre!! #ReclamoElectrin #Desastre",0
+438,2024-05-04,Facturacion_MediosPago,Facilidades de pago claras y acreditación inmediata del comprobante!!! #ServicioRestablecido 👍,1
+439,2024-04-16,Cortes_Programados,"Hacía falta el mantenimiento en los transformadores de nuestra zona, gracias en Barrio Centro!!! @laura_estilista",1
+440,2024-01-20,Atencion_Cliente,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada en San Francisco #Desastre #PésimoServicio 💔😤 https://electrin.com.ar/info/1b1d9",0
+441,2024-03-15,Obras_Mantenimiento,Muy buen trabajo en el recambio de postes de madera por columnas de hormigón!!! #Recomendado #LuzEnElBarrio 💡,1
+442,2024-09-12,Cortes_Emergencia,Llamamos a emergencias y nos dicen que no tienen móviles disponibles en Barrio Sur... un desastre!! #SinLuz #PésimoServicio 💔😤,0
+443,2024-03-25,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Villa Belgrano #BajaTension ⚡❌😡,0
+444,2024-10-16,Atencion_Cliente,Hice el reclamo por la web oficial y la página tira error de servidor 500 en Microcentro @laura_estilista #EmergenciaElectrica 😤,0
+445,2024-03-12,Cortes_Programados,Nos dejaron sin suministro a todo el barrio y nadie da explicaciones en Parque Residencial... un desastre!! #ZonaAfectada #Inoperantes https://electrin.com.ar/info/60ae4,0
+446,2024-02-06,Cortes_Emergencia,"Se cortó la luz de golpe sin aviso, no anda nada en La Alborada... un desastre!! #ElectrodomesticosRotos #BastaDeCortes 😤 https://electrin.com.ar/info/ab460",0
+447,2024-06-17,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal!!! @ferreteria_sur #IluminacionLED #EnergiaElectrica,1
+448,2024-10-31,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores en Barrio Centro @electrin_oficial #Desastre #QueremosLuz 🔌🚫🔌🚫⚡❌,0
+449,2024-01-16,Facturacion_MediosPago,"Pude adherirme al pago sin papel en dos minutos, muy práctico y ecológico!!! @taller_mecanico",1
+450,2024-04-04,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas @vecinos_activos ✅👍💪 https://electrin.com.ar/info/4cfc1",1
+451,2024-06-07,Atencion_Cliente,Prometen que la cuadrilla pasa en 2 horas y nunca aparece nadie en Palermo Viejo @electrin_reclamos,0
+452,2024-09-17,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz en Las Acacias!!! 🌟,1
+453,2024-07-14,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada https://electrin.com.ar/info/c86d0",0
+454,2024-04-16,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya en Barrio Centro #BastaDeCortes https://electrin.com.ar/info/5bbbd",0
+455,2024-03-16,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera en Santa Rita 🔌🚫,0
+456,2024-04-05,Facturacion_MediosPago,Facilidades de pago claras y acreditación inmediata del comprobante @vecinos_activos ⚡⚡💪,1
+457,2024-01-14,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya en Villa Belgrano @electrin_reclamos #SinLuz #Desastre",0
+458,2024-04-30,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron en Las Acacias @taller_mecanico,0
+459,2024-11-01,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en Microcentro @claudia_v #ElectrodomesticosRotos #SinLuz ⚡❌😡🕯️,0
+460,2024-05-25,Atencion_Cliente,La oficina virtual es súper intuitiva y te permite hacer todos los trámites desde casa en Barrio Centro 👍 https://electrin.com.ar/info/8291e,1
+461,2024-03-04,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance en Palermo Viejo @mariana_gomez #ElectrodomesticosRotos 🕯️,0
+462,2024-04-28,Facturacion_MediosPago,"Factura muy clara, bien detallados los subsidios y el historial de consumos en Las Flores #ElectrinResponde",1
+463,2024-05-15,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal en Microcentro 🙌🙌🔝,1
+464,2024-11-02,Obras_Mantenimiento,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en Barrio Norte!!! @sofi_alvarez,1
+465,2024-03-14,Obras_Mantenimiento,Dejaron escombros y cables viejos tirados frente a las entradas de los garages @electrin_oficial 🤬,0
+466,2024-05-16,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras en Los Aromos @juanpablo_92 #BajaTension 💔😤,0
+467,2024-01-19,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya #Desastre #QueremosLuz https://electrin.com.ar/info/8d130",0
+468,2024-04-22,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo en Altos del Valle!!! @laura_estilista #ElectrinResponde #Eficiencia ✅,1
+469,2024-06-16,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora en Zona Industrial 😭,0
+470,2024-07-15,Atencion_Cliente,Seguimiento impecable del reclamo hasta confirmar que teníamos servicio normal en Santa Rita #ExcelenteServicio https://electrin.com.ar/info/652cb,1
+471,2024-05-06,Facturacion_MediosPago,Imposible entender el desglose de conceptos e impuestos en la boleta #PésimoServicio #Desastre,0
+472,2024-10-16,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores... un desastre!! @laura_estilista #PésimoServicio 🔌🚫🔌🚫,0
+473,2024-01-11,Atencion_Cliente,Agradezco la calidez y profesionalismo del personal de atención al usuario en Zona Industrial!!! #EnergiaElectrica #Recomendado 🙌💡🙌,1
+474,2024-09-09,Cortes_Emergencia,Reconexión rápida y tensión perfectamente estabilizada tras la tormenta #EnergiaElectrica 🔝🙌🙌,1
+475,2024-11-08,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo... un desastre!! 😭🔌🚫",0
+476,2024-01-22,Cortes_Programados,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo #Compromiso #LuzEnElBarrio 🔝🙌👍,1
+477,2024-01-21,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en Costanera @dr_martinez 🕯️🕯️,0
+478,2024-11-28,Cortes_Emergencia,Llamamos a emergencias y nos dicen que no tienen móviles disponibles en Las Acacias @electrin_oficial 😭💔,0
+479,2024-11-06,Cortes_Programados,Imposible trabajar desde casa con estos cortes programados interminables en Barrio Centro @taller_mecanico 😭,0
+480,2024-02-07,Cortes_Programados,Nos dejaron sin suministro a todo el barrio y nadie da explicaciones 🤬💔💔,0
+481,2024-04-14,Cortes_Programados,"Hacía falta el mantenimiento en los transformadores de nuestra zona, gracias en Palermo Viejo @vecinos_activos ✅⚡",1
+482,2024-10-02,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad en Palermo Viejo!!! @diego_vecino #Compromiso #LuzEnElBarrio ✅,1
+483,2024-01-29,Obras_Mantenimiento,Muy buen trabajo en el recambio de postes de madera por columnas de hormigón 💡,1
+484,2024-05-29,Atencion_Cliente,Respondieron mi consulta por mensaje directo de Instagram de forma rápida y clara en Villa Belgrano!!! #Compromiso 👏⚡,1
+485,2024-09-05,Facturacion_MediosPago,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo en Los Aromos... un desastre!! 👎👎⚡❌",0
+486,2024-06-17,Obras_Mantenimiento,Hermoso festejar el cumpleaños con velas porque la luz no volvió en San Francisco @dr_martinez 🤦‍♂️,0
+487,2024-05-13,Cortes_Programados,Dijeron que el corte era de 2 horas y ya van 6 horas sin luz #BastaDeCortes 😤💔😭,0
+488,2024-09-29,Obras_Mantenimiento,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Barrio Norte!!! @comercio_local #IluminacionLED,1
+489,2024-10-12,Cortes_Emergencia,Muy atentos los técnicos que verificaron que la tensión en los domicilios sea correcta en Los Aromos!!! @sofi_alvarez #BuenaAtencion 🔝👏👏,1
+490,2024-10-28,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad en La Alborada #ExcelenteServicio,1
+491,2024-06-27,Cortes_Emergencia,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo 👏 https://electrin.com.ar/info/adb50,1
+492,2024-08-22,Cortes_Emergencia,Divino el calor que hace adentro de casa sin ventilador ni heladera en Barrio Norte... un desastre!! 💔,0
+493,2024-05-31,Cortes_Emergencia,Destaco el compromiso de los trabajadores de guardia en plena madrugada,1
+494,2024-04-15,Cortes_Emergencia,Impecable respuesta operativa ante la emergencia climática de anoche en Los Aromos #BuenaAtencion 🔝💪,1
+495,2024-07-25,Atencion_Cliente,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas #Recomendado #ObrasElectrin,1
+496,2024-05-30,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Villa Belgrano",0
+497,2024-06-07,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora en San Cayetano #ElectrodomesticosRotos 🤬🤦‍♂️💔,0
+498,2024-08-15,Cortes_Emergencia,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Las Acacias 🕯️💔 https://electrin.com.ar/info/89b8c",0
+499,2024-08-25,Cortes_Emergencia,Hubo un golpe de tensión terrible y se me quemó la heladera y la tele en San Francisco @carlos_rodriguez 😭🔌🚫 https://electrin.com.ar/info/47a8c,0
+500,2024-03-25,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor en Barrio Centro #ZonaAfectada 😭😭,0
+501,2024-07-22,Facturacion_MediosPago,La consulta de saldo por WhatsApp es instantánea y muy cómoda en Barrio Norte,1
+502,2024-04-19,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores en Villa San Martín @sofi_alvarez 💔 https://electrin.com.ar/info/0508d,0
+503,2024-09-06,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna en Las Flores!!! 👏🌟",1
+504,2024-11-27,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos en Costanera @carlos_rodriguez #Inoperantes 😤👎",0
+505,2024-08-23,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Barrio Norte 🔌🚫,0
+506,2024-10-24,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras en Altos del Valle @diego_vecino #BastaDeCortes 😭,0
+507,2024-05-31,Obras_Mantenimiento,Luminarias nuevas apagadas desde el primer día que las instalaron... un desastre!! #Inoperantes #SinLuz,0
+508,2024-05-24,Obras_Mantenimiento,"Una belleza de servicio técnico, vinieron, miraron el transformador y se fueron... un desastre!!",0
+509,2024-11-23,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en Costanera",0
+510,2024-04-18,Obras_Mantenimiento,"Divina la respuesta de soporte, me dijeron que compre un grupo electrógeno... un desastre!! @carlos_rodriguez #ReclamoElectrin #ZonaAfectada ⚡❌💔",0
+511,2024-06-26,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo en Parque Residencial #ZonaAfectada #Desastre 😭😤🤬",0
+512,2024-01-19,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Zona Industrial... un desastre!! @vecinos_activos #EmergenciaElectrica #SinLuz 🕯️🔌🚫,0
+513,2024-08-30,Atencion_Cliente,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en La Alborada,1
+514,2024-08-02,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en Altos del Valle @laura_estilista #BajaTension #CorteDeLuz 🤦‍♂️😤",0
+515,2024-06-29,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Zona Industrial @lucas_martinez,0
+516,2024-08-24,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo en San Francisco!!! @panaderia_centro #EnergiaElectrica 🌟👍🙌,1
+517,2024-04-06,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo en Las Flores @sofi_alvarez #ElectrinResponde ✅",1
+518,2024-07-22,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Los Aromos 🤬,0
+519,2024-11-30,Facturacion_MediosPago,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Los Aromos #ObrasElectrin #Recomendado 😀👍 https://electrin.com.ar/info/e387b,1
+520,2024-01-27,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna!!! @lucas_martinez #EnergiaElectrica 👍",1
+521,2024-03-21,Cortes_Emergencia,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena 😭😡⚡❌,0
+522,2024-03-31,Facturacion_MediosPago,"Divina la respuesta de soporte, me dijeron que compre un grupo electrógeno en Costanera 😡👎",0
+523,2024-03-03,Cortes_Programados,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo en Zona Industrial #GraciasCuadrilla 💪💡✅,1
+524,2024-06-16,Atencion_Cliente,El trámite de cambio de titularidad fue 100% online y se aprobó en 24 horas!!! #EnergiaElectrica #ElectrinResponde 👍🔝✅,1
+525,2024-10-19,Atencion_Cliente,Trámite de cambio de titularidad rechazado tres veces sin explicar el motivo en Santa Rita #BajaTension,0
+526,2024-05-31,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera en Santa Rita #ReclamoElectrin #ElectrodomesticosRotos 🤬👎,0
+527,2024-11-24,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano @mariana_gomez #CorteDeLuz #EmergenciaElectrica 😡,0
+528,2024-05-31,Cortes_Emergencia,Reconexión rápida y tensión perfectamente estabilizada tras la tormenta en Altos del Valle!!! #ExcelenteServicio 🌟🔝🔝,1
+529,2024-05-26,Atencion_Cliente,Divino el calor que hace adentro de casa sin ventilador ni heladera @laura_estilista 💔,0
+530,2024-05-10,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte en Las Flores 🕯️💔,0
+531,2024-06-29,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera en Microcentro... un desastre!! @claudia_v #QueremosLuz #Desastre 😭🕯️,0
+532,2024-03-20,Cortes_Programados,"Corte programado sin aviso previo en la app ni por correo, una falta de respeto 💔",0
+533,2024-05-29,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Las Acacias... un desastre!! @sofi_alvarez ⚡❌😡😡,0
+534,2024-01-25,Obras_Mantenimiento,Instalaron un transformador nuevo y la potencia en la zona industrial mejoró un 100% 🔝,1
+535,2024-03-19,Atencion_Cliente,Agradezco la calidez y profesionalismo del personal de atención al usuario @lucas_martinez #LuzEnElBarrio 💡💡,1
+536,2024-08-01,Atencion_Cliente,La oficina virtual es súper intuitiva y te permite hacer todos los trámites desde casa en Las Acacias @comercio_local #ExcelenteServicio 😀😀💪,1
+537,2024-01-19,Facturacion_MediosPago,La descarga de boletas desde la web es instantánea y sin complicaciones en Microcentro #Compromiso #Eficiencia 💪⚡🙌,1
+538,2024-01-21,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Las Acacias @laura_estilista #ElectrodomesticosRotos 👎😡⚡❌,0
+539,2024-09-20,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' en Las Flores,0
+540,2024-01-31,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos en Microcentro @comercio_local",0
+541,2024-09-11,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución en San Francisco @taller_mecanico 😡,0
+542,2024-06-05,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en San Francisco 🕯️🤦‍♂️",0
+543,2024-01-16,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento #ReclamoElectrin 😭🤦‍♂️😡 https://electrin.com.ar/info/43d8e,0
+544,2024-11-13,Obras_Mantenimiento,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo!!! @panaderia_centro 👍😀,1
+545,2024-08-09,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V... un desastre!! #BajaTension 👎,0
+546,2024-09-02,Atencion_Cliente,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo... un desastre!! #CorteDeLuz #EmergenciaElectrica 🔌🚫,0
+547,2024-03-08,Obras_Mantenimiento,"Cuadrillas muy profesionales, dejaron la vereda perfectamente limpia y señalizada en Altos del Valle @vecinos_activos #GraciasCuadrilla",1
+548,2024-01-09,Cortes_Programados,Excelente que avisen con 48hs de anticipación con mapa claro de las zonas #LuzEnElBarrio #ServicioRestablecido 🔝🌟🌟,1
+549,2024-01-14,Cortes_Emergencia,A pesar del temporal la cuadrilla vino rapidísimo y solucionó el corte #EnergiaElectrica #LuzEnElBarrio,1
+550,2024-06-08,Cortes_Emergencia,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo en San Cayetano!!! #ServicioRestablecido 🔝👍 https://electrin.com.ar/info/5a8aa,1
+551,2024-08-18,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras @electrin_reclamos #QueremosLuz #ElectrodomesticosRotos,0
+552,2024-04-30,Facturacion_MediosPago,Me vino el triple de consumo en la factura sin justificación alguna... un desastre!! @panaderia_centro 😤⚡❌,0
+553,2024-06-04,Atencion_Cliente,"La atención en la oficina central fue pésima, te atienden de mala gana... un desastre!! @panaderia_centro #ReclamoElectrin #BastaDeCortes 💔😤🔌🚫",0
+554,2024-09-18,Cortes_Programados,Buena iniciativa de publicar los mapas interactivos de corte en Instagram en Los Aromos!!! @electrin_oficial #EnergiaElectrica,1
+555,2024-07-27,Obras_Mantenimiento,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo en Barrio Centro... un desastre!! #ZonaAfectada #EmergenciaElectrica 🤬😡🕯️ https://electrin.com.ar/info/f3d6b,0
+556,2024-06-11,Facturacion_MediosPago,La descarga de boletas desde la web es instantánea y sin complicaciones en Villa Belgrano #Recomendado #ServicioRestablecido https://electrin.com.ar/info/009bf,1
+557,2024-07-11,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' en Altos del Valle @electrin_oficial #SinLuz 😡🕯️,0
+558,2024-08-02,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron en San Cayetano 😤 https://electrin.com.ar/info/4154c,0
+559,2024-02-08,Cortes_Programados,Nos dejaron sin suministro a todo el barrio y nadie da explicaciones @ferreteria_sur #Desastre #ReclamoElectrin,0
+560,2024-03-20,Atencion_Cliente,Trámite de cambio de titularidad rechazado tres veces sin explicar el motivo en Altos del Valle @lucas_martinez 🔌🚫🕯️😭,0
+561,2024-01-17,Cortes_Programados,Nos dejaron sin suministro a todo el barrio y nadie da explicaciones #EmergenciaElectrica,0
+562,2024-11-04,Facturacion_MediosPago,Me vino el triple de consumo en la factura sin justificación alguna en Zona Industrial... un desastre!! 👎 https://electrin.com.ar/info/94730,0
+563,2024-08-08,Cortes_Emergencia,Solucionaron la fase caída en menos de una hora de haber hecho el reporte @mariana_gomez #Compromiso #ServicioRestablecido 🔝 https://electrin.com.ar/info/cb220,1
+564,2024-03-06,Facturacion_MediosPago,Muy buena la bonificación por ahorro de energía en el último bimestre en Villa San Martín!!! #Recomendado #ObrasElectrin,1
+565,2024-04-15,Obras_Mantenimiento,Muy buen trabajo en el recambio de postes de madera por columnas de hormigón en Palermo Viejo @electrin_reclamos #Compromiso ✅,1
+566,2024-06-19,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera... un desastre!!,0
+567,2024-07-11,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera en Microcentro @claudia_v #ReclamoElectrin #BastaDeCortes 😭,0
+568,2024-06-06,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo... un desastre!! @carlos_rodriguez #BastaDeCortes 🕯️ https://electrin.com.ar/info/8d26b",0
+569,2024-11-30,Cortes_Programados,Muy buena organización en las obras preventivas para evitar cortes en verano #IluminacionLED 🔝✅ https://electrin.com.ar/info/ef932,1
+570,2024-03-11,Cortes_Emergencia,Hubo un golpe de tensión terrible y se me quemó la heladera y la tele en San Francisco... un desastre!! @electrin_reclamos #SinLuz 🕯️,0
+571,2024-08-17,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido en Barrio Sur!!! @laura_estilista ⚡,1
+572,2024-04-13,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte #ReclamoElectrin,0
+573,2024-11-24,Facturacion_MediosPago,Tarifas abusivas y los aumentos no se reflejan en una mejora del servicio 😤🤬💔,0
+574,2024-06-08,Cortes_Emergencia,"Fase caída hace dos días, no podemos encender ni la bomba de agua en Costanera 🕯️🤦‍♂️🤬",0
+575,2024-03-17,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento en Santa Rita @carlos_rodriguez #IluminacionLED,1
+576,2024-03-05,Atencion_Cliente,Estuve 45 minutos esperando en el 0800 y me cortaron la llamada en Barrio Sur @electrin_oficial,0
+577,2024-04-28,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad en Villa Belgrano @ferreteria_sur #IluminacionLED 😀,1
+578,2024-09-12,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera @sofi_alvarez #EmergenciaElectrica 🔌🚫🔌🚫👎,0
+579,2024-03-23,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya en Microcentro 🕯️",0
+580,2024-04-24,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V 🤬⚡❌😭,0
+581,2024-05-17,Atencion_Cliente,"Excelente atención del operador telefónico, muy amable y resolutivo @vecinos_activos #IluminacionLED 💪🔝💡",1
+582,2024-07-15,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera en Microcentro... un desastre!! @lucas_martinez,0
+583,2024-06-13,Cortes_Emergencia,Hermoso festejar el cumpleaños con velas porque la luz no volvió en Barrio Centro #BajaTension 😡,0
+584,2024-06-17,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión",0
+585,2024-02-15,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos en Villa Belgrano #PésimoServicio #EmergenciaElectrica 🤦‍♂️🤬",0
+586,2024-04-22,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos en Palermo Viejo #Desastre #QueremosLuz 😡👎,0
+587,2024-01-10,Cortes_Emergencia,"Se cortó la luz de golpe sin aviso, no anda nada",0
+588,2024-05-17,Facturacion_MediosPago,El sistema no reconoce el comprobante de pago de Pago Fácil en Las Acacias 🔌🚫👎 https://electrin.com.ar/info/74454,0
+589,2024-07-10,Cortes_Programados,Qué linda sorpresa el aumento del triple en la factura de este mes en San Francisco... un desastre!! @carlos_rodriguez,0
+590,2024-04-14,Atencion_Cliente,Seguimiento impecable del reclamo hasta confirmar que teníamos servicio normal #ExcelenteServicio 💪⚡,1
+591,2024-11-10,Facturacion_MediosPago,El sistema no reconoce el comprobante de pago de Pago Fácil en Las Acacias 💔😡,0
+592,2024-02-17,Atencion_Cliente,Trámite de cambio de titularidad rechazado tres veces sin explicar el motivo en Barrio Norte @diego_vecino #BajaTension #ElectrinVerguenza 🤬,0
+593,2024-06-24,Cortes_Programados,Corte programado ejecutado a tiempo y con aviso previo por SMS y mail en Barrio Centro!!! #IluminacionLED #Eficiencia 🙌👍,1
+594,2024-02-19,Cortes_Programados,Divino el calor que hace adentro de casa sin ventilador ni heladera en San Francisco @juanpablo_92 #PésimoServicio #Inoperantes 🕯️⚡❌,0
+595,2024-07-03,Facturacion_MediosPago,El sistema no reconoce el comprobante de pago de Pago Fácil en Santa Rita... un desastre!! #PésimoServicio #SinLuz 😤💔,0
+596,2024-02-28,Atencion_Cliente,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada en Barrio Sur #Desastre #ElectrinVerguenza 🔌🚫",0
+597,2024-10-25,Atencion_Cliente,Respondieron mi consulta por mensaje directo de Instagram de forma rápida y clara 🙌🌟 https://electrin.com.ar/info/aebb2,1
+598,2024-08-25,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en Barrio Norte #PésimoServicio https://electrin.com.ar/info/9fb7b,0
+599,2024-01-24,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio en Santa Rita",1
+600,2024-08-04,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal!!! @sofi_alvarez https://electrin.com.ar/info/c5e44,1
+601,2024-08-13,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado en Palermo Viejo... un desastre!! @diego_vecino https://electrin.com.ar/info/29bea",0
+602,2024-02-01,Cortes_Programados,"Una belleza de servicio técnico, vinieron, miraron el transformador y se fueron en Microcentro @diego_vecino #ElectrinVerguenza 😭🤬🤬",0
+603,2024-06-08,Cortes_Programados,"Corte programado sin aviso previo en la app ni por correo, una falta de respeto en San Francisco... un desastre!! @ferreteria_sur #BastaDeCortes ⚡❌😡🤬",0
+604,2024-07-07,Facturacion_MediosPago,Me vino el triple de consumo en la factura sin justificación alguna en Los Aromos... un desastre!! 😤😤💔,0
+605,2024-07-25,Atencion_Cliente,Hice el reclamo por la web oficial y la página tira error de servidor 500 en Los Aromos @electrin_reclamos #ElectrinVerguenza #CorteDeLuz,0
+606,2024-04-09,Cortes_Programados,"Pésima planificación, siempre cortan los días de mayor calor en Barrio Sur #EmergenciaElectrica 🔌🚫😭",0
+607,2024-06-04,Cortes_Emergencia,Muy atentos los técnicos que verificaron que la tensión en los domicilios sea correcta en Los Aromos!!! #ObrasElectrin #LuzEnElBarrio 👏,1
+608,2024-11-09,Facturacion_MediosPago,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en Parque Residencial @juanpablo_92 #ExcelenteServicio,1
+609,2024-04-24,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas @juanpablo_92 #EnergiaElectrica https://electrin.com.ar/info/f1ed9,1
+610,2024-02-10,Atencion_Cliente,Hice el reclamo por la web oficial y la página tira error de servidor 500 en Zona Industrial... un desastre!! @electrin_oficial 🔌🚫😭🤦‍♂️ https://electrin.com.ar/info/25964,0
+611,2024-05-07,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento 🔌🚫😡👎,0
+612,2024-06-08,Facturacion_MediosPago,La factura digital llega siempre puntual al correo electrónico con recordatorio en Barrio Sur @lucas_martinez 💡,1
+613,2024-05-10,Cortes_Emergencia,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras en Los Aromos #ZonaAfectada #CorteDeLuz 🤬⚡❌😭",0
+614,2024-01-24,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada 😤😤⚡❌",0
+615,2024-06-25,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en La Alborada!!! 👍,1
+616,2024-03-25,Facturacion_MediosPago,Me vino el triple de consumo en la factura sin justificación alguna... un desastre!! @electrin_oficial #ElectrodomesticosRotos #CorteDeLuz 😡 https://electrin.com.ar/info/613fb,0
+617,2024-06-22,Atencion_Cliente,"La atención en la oficina central fue pésima, te atienden de mala gana en Las Flores @electrin_reclamos #BastaDeCortes #ZonaAfectada 😡🤬🤦‍♂️",0
+618,2024-05-31,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' en Parque Residencial 💔😭,0
+619,2024-08-03,Cortes_Emergencia,El servicio volvió antes de lo previsto luego del rayo que afectó la subestación en Zona Industrial!!! ✅👍,1
+620,2024-02-20,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo @vecinos_activos #IluminacionLED #EnergiaElectrica https://electrin.com.ar/info/b5d5b,1
+621,2024-05-21,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora #ElectrodomesticosRotos 🔌🚫⚡❌ https://electrin.com.ar/info/d473a,0
+622,2024-06-23,Cortes_Emergencia,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena... un desastre!!,0
+623,2024-09-06,Facturacion_MediosPago,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo #Eficiencia 🔝💪,1
+624,2024-03-05,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado en Costanera... un desastre!! #QueremosLuz",0
+625,2024-09-29,Atencion_Cliente,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V",0
+626,2024-05-01,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo @laura_estilista 🤦‍♂️🔌🚫",0
+627,2024-04-23,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio en Barrio Centro #EnergiaElectrica",1
+628,2024-11-20,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón... un desastre!! #ReclamoElectrin 💔 https://electrin.com.ar/info/52d2d,0
+629,2024-06-28,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada #Inoperantes #CorteDeLuz https://electrin.com.ar/info/bb2e3,0
+630,2024-04-16,Facturacion_MediosPago,Pude financiar mi deuda en cuotas accesibles a través de la oficina virtual en Microcentro!!! @panaderia_centro #ElectrinResponde 🌟,1
+631,2024-01-19,Cortes_Programados,Información clara y transparente sobre las zonas afectadas y tiempos estimados en San Francisco!!! #Recomendado #IluminacionLED ✅🌟 https://electrin.com.ar/info/f9ee8,1
+632,2024-07-12,Atencion_Cliente,Respondieron mi consulta por mensaje directo de Instagram de forma rápida y clara en Altos del Valle!!! 👏🌟🔝,1
+633,2024-03-03,Cortes_Programados,"Corte programado sin aviso previo en la app ni por correo, una falta de respeto en Barrio Norte... un desastre!! #ElectrinVerguenza",0
+634,2024-04-19,Obras_Mantenimiento,Dejaron escombros y cables viejos tirados frente a las entradas de los garages en Villa San Martín @ferreteria_sur #CorteDeLuz,0
+635,2024-08-14,Cortes_Programados,Corte programado ejecutado a tiempo y con aviso previo por SMS y mail!!! #ObrasElectrin 😀👏,1
+636,2024-07-15,Cortes_Programados,"Pésima planificación, siempre cortan los días de mayor calor @mariana_gomez 🤬😡",0
+637,2024-07-26,Atencion_Cliente,Hice el reclamo por la web oficial y la página tira error de servidor 500 en Las Acacias https://electrin.com.ar/info/94576,0
+638,2024-09-14,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan en Las Flores #SinLuz 😤,0
+639,2024-06-08,Cortes_Emergencia,A pesar del temporal la cuadrilla vino rapidísimo y solucionó el corte @juanpablo_92 #LuzEnElBarrio 🙌💡,1
+640,2024-08-01,Facturacion_MediosPago,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Barrio Sur 💡🌟🙌,1
+641,2024-04-25,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad en Barrio Centro!!! #EnergiaElectrica #ElectrinResponde 🙌✅👏 https://electrin.com.ar/info/b74c0,1
+642,2024-03-28,Cortes_Emergencia,"La guardia de emergencias llegó a los 20 minutos de ingresar el reclamo, impecable #Compromiso 💪",1
+643,2024-02-21,Atencion_Cliente,Estuve 45 minutos esperando en el 0800 y me cortaron la llamada en Villa San Martín... un desastre!! @taller_mecanico #ElectrinVerguenza 😤🤦‍♂️😡,0
+644,2024-04-23,Atencion_Cliente,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas!!! @electrin_oficial 👏⚡ https://electrin.com.ar/info/eb710,1
+645,2024-11-05,Obras_Mantenimiento,Hicieron zanjeo en la vereda para cambiar cables y dejaron el pozo abierto sin tapar en Altos del Valle 🤦‍♂️😡👎 https://electrin.com.ar/info/a0932,0
+646,2024-08-02,Obras_Mantenimiento,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo en Barrio Centro!!! @electrin_oficial https://electrin.com.ar/info/c555e,1
+647,2024-07-29,Facturacion_MediosPago,Excelente la opción de pago con QR interoperable y factura digital automática en La Alborada @laura_estilista #ExcelenteServicio #ServicioRestablecido ⚡😀 https://electrin.com.ar/info/2d93b,1
+648,2024-02-19,Cortes_Programados,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras #CorteDeLuz #PésimoServicio 👎",0
+649,2024-11-12,Cortes_Emergencia,Se cortó la luz durante el temporal aunque los operarios trabajaron muy rápido bajo la lluvia en Barrio Sur @juanpablo_92 #ObrasElectrin 🙌🌟✅,1
+650,2024-08-26,Cortes_Emergencia,Explotó un transformador en la esquina y salieron chispas por todos lados en Villa San Martín 🕯️👎🤬,0
+651,2024-10-09,Obras_Mantenimiento,Hicieron zanjeo en la vereda para cambiar cables y dejaron el pozo abierto sin tapar en Altos del Valle #EmergenciaElectrica #PésimoServicio 💔💔😭 https://electrin.com.ar/info/3b9e9,0
+652,2024-10-12,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores en Microcentro,0
+653,2024-05-12,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en Costanera #BastaDeCortes 😡👎🔌🚫,0
+654,2024-08-26,Cortes_Emergencia,Muy atentos los técnicos que verificaron que la tensión en los domicilios sea correcta #Eficiencia 🙌,1
+655,2024-04-01,Facturacion_MediosPago,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en Las Flores @electrin_oficial,1
+656,2024-10-10,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en Zona Industrial #ElectrodomesticosRotos #PésimoServicio,0
+657,2024-03-26,Atencion_Cliente,Divino el calor que hace adentro de casa sin ventilador ni heladera en Palermo Viejo... un desastre!! #ElectrinVerguenza 💔😭,0
+658,2024-06-10,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo en San Cayetano ⚡👏,1
+659,2024-10-04,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V... un desastre!! @mariana_gomez #SinLuz 😭🤬🤦‍♂️ https://electrin.com.ar/info/93e16,0
+660,2024-01-18,Obras_Mantenimiento,Luminarias nuevas apagadas desde el primer día que las instalaron... un desastre!! @panaderia_centro #Desastre #ElectrinVerguenza 😡😤⚡❌,0
+661,2024-11-23,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Villa San Martín... un desastre!! #Inoperantes,0
+662,2024-10-02,Atencion_Cliente,Agradezco la calidez y profesionalismo del personal de atención al usuario en Zona Industrial #Recomendado #ExcelenteServicio,1
+663,2024-11-10,Cortes_Programados,Se cortó la luz durante el temporal aunque los operarios trabajaron muy rápido bajo la lluvia en Villa San Martín #Recomendado #BuenaAtencion ⚡👏,1
+664,2024-02-14,Facturacion_MediosPago,La factura digital llega siempre puntual al correo electrónico con recordatorio en San Cayetano @juanpablo_92 😀,1
+665,2024-10-26,Cortes_Programados,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo @lucas_martinez 💡👏👏,1
+666,2024-10-28,Atencion_Cliente,Respondieron mi consulta por mensaje directo de Instagram de forma rápida y clara en Barrio Centro!!! 👏🙌🌟,1
+667,2024-06-27,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada en Barrio Sur @dr_martinez 💔😭👎",0
+668,2024-10-10,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en La Alborada #BastaDeCortes 🤦‍♂️🔌🚫🔌🚫,0
+669,2024-02-26,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte en Barrio Sur... un desastre!! @carlos_rodriguez #ZonaAfectada ⚡❌,0
+670,2024-05-19,Obras_Mantenimiento,Muy buen trabajo en el recambio de postes de madera por columnas de hormigón en Las Flores!!! #IluminacionLED,1
+671,2024-04-16,Cortes_Emergencia,Llevamos más de 24 horas sin luz y no vino ninguna cuadrilla en Barrio Sur #PésimoServicio #Desastre 💔🤬🕯️,0
+672,2024-09-03,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz en Santa Rita 🙌,1
+673,2024-07-01,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance @electrin_reclamos 💔 https://electrin.com.ar/info/76e91,0
+674,2024-10-22,Cortes_Emergencia,"Fase caída hace dos días, no podemos encender ni la bomba de agua en Costanera... un desastre!! @ferreteria_sur #SinLuz https://electrin.com.ar/info/c34db",0
+675,2024-01-15,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras en Las Acacias 💔🤦‍♂️,0
+676,2024-05-19,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Villa San Martín... un desastre!! @electrin_oficial #ReclamoElectrin #SinLuz 👎😭😡",0
+677,2024-05-05,Cortes_Emergencia,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada en Barrio Centro... un desastre!! https://electrin.com.ar/info/475b2",0
+678,2024-07-11,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna #ObrasElectrin 💡🌟",1
+679,2024-08-30,Cortes_Emergencia,Explotó un transformador en la esquina y salieron chispas por todos lados #Inoperantes #EmergenciaElectrica https://electrin.com.ar/info/909e4,0
+680,2024-05-17,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio @sofi_alvarez #LuzEnElBarrio #Compromiso",1
+681,2024-07-24,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad en Villa San Martín @lucas_martinez 🙌,1
+682,2024-04-20,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento @dr_martinez 🕯️🤦‍♂️💔,0
+683,2024-05-14,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en Palermo Viejo #EmergenciaElectrica #BastaDeCortes 💔😭😤,0
+684,2024-09-29,Obras_Mantenimiento,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo!!! @mariana_gomez #IluminacionLED 🙌✅,1
+685,2024-08-12,Facturacion_MediosPago,Pude financiar mi deuda en cuotas accesibles a través de la oficina virtual en Villa San Martín @electrin_oficial 👏,1
+686,2024-07-15,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera... un desastre!! @lucas_martinez,0
+687,2024-03-08,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado en Zona Industrial @comercio_local #Inoperantes",0
+688,2024-04-17,Facturacion_MediosPago,La descarga de boletas desde la web es instantánea y sin complicaciones @laura_estilista #ServicioRestablecido #Compromiso 😀😀,1
+689,2024-06-27,Obras_Mantenimiento,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo en San Francisco 😡 https://electrin.com.ar/info/7f5a8,0
+690,2024-07-16,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas en Palermo Viejo #IluminacionLED #BuenaAtencion ✅💪",1
+691,2024-07-19,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan en Los Aromos #ElectrodomesticosRotos #BastaDeCortes 😤,0
+692,2024-04-06,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos 😭😭",0
+693,2024-09-03,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora... un desastre!! #EmergenciaElectrica https://electrin.com.ar/info/ad73d,0
+694,2024-04-01,Atencion_Cliente,"Muy buena atención presencial en la sucursal, rápida y con turno ordenado @electrin_oficial #Compromiso #GraciasCuadrilla",1
+695,2024-06-03,Cortes_Emergencia,Muy atentos los técnicos que verificaron que la tensión en los domicilios sea correcta en Palermo Viejo!!! @sofi_alvarez #GraciasCuadrilla,1
+696,2024-01-10,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado en Villa San Martín 🔌🚫🕯️😡",0
+697,2024-08-14,Cortes_Emergencia,Hay cables caídos con tensión en plena vereda y es un peligro para los chicos en Las Acacias #CorteDeLuz #BastaDeCortes,0
+698,2024-09-27,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido #LuzEnElBarrio #Compromiso 💡😀⚡ https://electrin.com.ar/info/6aad9,1
+699,2024-03-20,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna en Barrio Sur!!! #LuzEnElBarrio #Compromiso ✅",1
+700,2024-08-06,Facturacion_MediosPago,La consulta de saldo por WhatsApp es instantánea y muy cómoda en San Cayetano #ObrasElectrin,1
+701,2024-02-18,Obras_Mantenimiento,Colocaron nuevo cableado preensamblado en el barrio y ya no hay parpadeos de luz en Barrio Sur @vecinos_activos 💪,1
+702,2024-07-23,Cortes_Emergencia,"La guardia de emergencias llegó a los 20 minutos de ingresar el reclamo, impecable en Microcentro @taller_mecanico #IluminacionLED #ServicioRestablecido 💪🌟🙌",1
+703,2024-04-20,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte... un desastre!! #ElectrinVerguenza 🤦‍♂️😤,0
+704,2024-01-21,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo @lucas_martinez #ObrasElectrin #GraciasCuadrilla 💪😀👍",1
+705,2024-02-11,Cortes_Emergencia,El servicio volvió antes de lo previsto luego del rayo que afectó la subestación en San Francisco!!! https://electrin.com.ar/info/47c61,1
+706,2024-07-31,Atencion_Cliente,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Santa Rita... un desastre!! #ElectrinVerguenza #BastaDeCortes 🕯️👎🤬 https://electrin.com.ar/info/ccebe",0
+707,2024-05-14,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido @claudia_v #ServicioRestablecido,1
+708,2024-11-24,Obras_Mantenimiento,Instalaron un transformador nuevo y la potencia en la zona industrial mejoró un 100% en Barrio Centro @sofi_alvarez,1
+709,2024-11-03,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada... un desastre!! #CorteDeLuz",0
+710,2024-08-06,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución en Barrio Sur 🤦‍♂️🤦‍♂️😤,0
+711,2024-04-16,Atencion_Cliente,"Excelente atención del operador telefónico, muy amable y resolutivo @dr_martinez ⚡🌟👏",1
+712,2024-09-17,Atencion_Cliente,"Qué maravilla de servicio, justo en la final del partido nos dejan a oscuras en Parque Residencial 🕯️🔌🚫",0
+713,2024-05-22,Cortes_Emergencia,Impecable respuesta operativa ante la emergencia climática de anoche en Las Flores @carlos_rodriguez #Compromiso 💪💡,1
+714,2024-03-31,Cortes_Emergencia,La factura vino un poco más cara pero la app para pagar en cuotas ayudó bastante en Barrio Norte @taller_mecanico 🌟🙌😀,1
+715,2024-08-13,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución en Villa San Martín @dr_martinez #Desastre 💔🕯️🔌🚫 https://electrin.com.ar/info/e91f9,0
+716,2024-09-14,Facturacion_MediosPago,"Pude adherirme al pago sin papel en dos minutos, muy práctico y ecológico!!! #EnergiaElectrica",1
+717,2024-09-02,Obras_Mantenimiento,Se terminaron los problemas de baja tensión gracias a la nueva subestación en San Francisco #ExcelenteServicio,1
+718,2024-05-01,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal!!! @electrin_oficial #BuenaAtencion 🙌,1
+719,2024-02-14,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Villa Belgrano #ElectrinVerguenza #EmergenciaElectrica 👎💔😤,0
+720,2024-05-28,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte en La Alborada 💔😭😤,0
+721,2024-06-28,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento!!!,1
+722,2024-06-17,Atencion_Cliente,Prometen que la cuadrilla pasa en 2 horas y nunca aparece nadie en Palermo Viejo... un desastre!! @dr_martinez,0
+723,2024-09-07,Atencion_Cliente,"Divina la respuesta de soporte, me dijeron que compre un grupo electrógeno en Barrio Sur #EmergenciaElectrica 😤",0
+724,2024-03-15,Atencion_Cliente,"Pésima gestión de reclamos, los empleados no tienen información actualizada @lucas_martinez #CorteDeLuz #ElectrodomesticosRotos https://electrin.com.ar/info/08025",0
+725,2024-06-13,Obras_Mantenimiento,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Santa Rita @lucas_martinez 🔝,1
+726,2024-11-24,Atencion_Cliente,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo en Parque Residencial @vecinos_activos 🤬👎⚡❌,0
+727,2024-03-02,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido en Costanera!!! 👏,1
+728,2024-09-10,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz!!! #Compromiso #EnergiaElectrica,1
+729,2024-06-20,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando @electrin_reclamos #EmergenciaElectrica #PésimoServicio ⚡❌,0
+730,2024-03-26,Atencion_Cliente,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V @electrin_reclamos #ReclamoElectrin 🤦‍♂️😡⚡❌",0
+731,2024-06-22,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Santa Rita... un desastre!! @panaderia_centro 👎😭🕯️,0
+732,2024-09-19,Cortes_Emergencia,"Fase caída hace dos días, no podemos encender ni la bomba de agua @electrin_oficial #SinLuz",0
+733,2024-03-21,Cortes_Programados,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente!!! #ElectrinResponde #IluminacionLED,1
+734,2024-02-19,Obras_Mantenimiento,"Una belleza de servicio técnico, vinieron, miraron el transformador y se fueron @mariana_gomez 😡🕯️🕯️",0
+735,2024-05-05,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad!!! @ferreteria_sur #LuzEnElBarrio #ServicioRestablecido 😀,1
+736,2024-01-05,Atencion_Cliente,Seguimiento impecable del reclamo hasta confirmar que teníamos servicio normal 💡 https://electrin.com.ar/info/aaaae,1
+737,2024-11-27,Cortes_Programados,Excelente que avisen con 48hs de anticipación con mapa claro de las zonas @dr_martinez #GraciasCuadrilla 💪💡🔝,1
+738,2024-10-07,Atencion_Cliente,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo @lucas_martinez 🤬,0
+739,2024-02-03,Cortes_Emergencia,Destaco el compromiso de los trabajadores de guardia en plena madrugada en La Alborada ⚡,1
+740,2024-08-07,Obras_Mantenimiento,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada en Barrio Centro #BastaDeCortes #Desastre 🕯️😭",0
+741,2024-07-31,Facturacion_MediosPago,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo en Barrio Sur",0
+742,2024-08-06,Cortes_Programados,Buena iniciativa de publicar los mapas interactivos de corte en Instagram en Los Aromos @carlos_rodriguez #ServicioRestablecido 💪👏 https://electrin.com.ar/info/6014d,1
+743,2024-04-25,Atencion_Cliente,Hice el reclamo por la web oficial y la página tira error de servidor 500... un desastre!! 😤🕯️🔌🚫,0
+744,2024-02-14,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Villa Belgrano @laura_estilista,0
+745,2024-05-27,Facturacion_MediosPago,Facilidades de pago claras y acreditación inmediata del comprobante en Altos del Valle,1
+746,2024-08-15,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento... un desastre!! @vecinos_activos 🔌🚫🔌🚫⚡❌,0
+747,2024-08-07,Cortes_Emergencia,Excelente predisposición del equipo técnico que arregló el cable caído en minutos en Barrio Centro @mariana_gomez #EnergiaElectrica #BuenaAtencion 🔝,1
+748,2024-01-25,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento #Eficiencia #ObrasElectrin 😀✅,1
+749,2024-09-13,Cortes_Programados,Se nota la mejora en la calidad y estabilidad de la tensión luego de los trabajos!!! @carlos_rodriguez #LuzEnElBarrio 🔝👍🌟,1
+750,2024-09-21,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días @mariana_gomez #SinLuz #ZonaAfectada,0
+751,2024-11-28,Facturacion_MediosPago,"El débito automático funciona impecable, nunca un problema ni cobro duplicado @electrin_reclamos #ElectrinResponde #IluminacionLED 💪👏",1
+752,2024-08-13,Cortes_Emergencia,Hubo un golpe de tensión terrible y se me quemó la heladera y la tele en Parque Residencial @ferreteria_sur #BajaTension #Desastre 👎🤬 https://electrin.com.ar/info/3dbed,0
+753,2024-01-17,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada en Altos del Valle 😤🤬",0
+754,2024-10-09,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance... un desastre!! 😡😡,0
+755,2024-09-20,Atencion_Cliente,"Muy buena atención presencial en la sucursal, rápida y con turno ordenado en Santa Rita!!! #Recomendado 💪",1
+756,2024-10-27,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido,1
+757,2024-11-18,Cortes_Emergencia,Impecable respuesta operativa ante la emergencia climática de anoche en Parque Residencial #LuzEnElBarrio #EnergiaElectrica,1
+758,2024-06-23,Atencion_Cliente,Estuve 45 minutos esperando en el 0800 y me cortaron la llamada #ElectrodomesticosRotos ⚡❌⚡❌💔,0
+759,2024-10-31,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal en Microcentro 🌟👍✅,1
+760,2024-10-25,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance en Santa Rita @electrin_reclamos #Inoperantes,0
+761,2024-04-05,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio en Barrio Sur #IluminacionLED #ExcelenteServicio 👍🙌",1
+762,2024-05-30,Cortes_Programados,"Tercer corte programado en la semana, no se puede vivir así... un desastre!! #ZonaAfectada",0
+763,2024-07-14,Obras_Mantenimiento,Rompieron la vereda recién hecha para pasar un cable y la dejaron sin revocar en Barrio Norte @electrin_reclamos 👎🔌🚫😡,0
+764,2024-05-29,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en Barrio Norte #GraciasCuadrilla 😀,1
+765,2024-08-03,Facturacion_MediosPago,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Las Acacias!!! @laura_estilista #Compromiso 🔝👏🔝,1
+766,2024-07-28,Cortes_Emergencia,"Estuvimos sin luz un rato por el rayo pero el servicio volvió antes de lo previsto, gracias en Los Aromos!!! @panaderia_centro ⚡🙌 https://electrin.com.ar/info/f581c",1
+767,2024-02-08,Cortes_Emergencia,"Estuvimos sin luz un rato por el rayo pero el servicio volvió antes de lo previsto, gracias!!! #Eficiencia #ObrasElectrin ⚡👏😀",1
+768,2024-08-04,Obras_Mantenimiento,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo!!! #EnergiaElectrica ✅,1
+769,2024-06-05,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Villa Belgrano @taller_mecanico 😡 https://electrin.com.ar/info/4a747,0
+770,2024-01-25,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Barrio Norte... un desastre!! @ferreteria_sur #BastaDeCortes #CorteDeLuz,0
+771,2024-10-26,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance... un desastre!! 😤,0
+772,2024-02-02,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos... un desastre!! #ReclamoElectrin #ZonaAfectada 💔⚡❌🤦‍♂️",0
+773,2024-09-11,Facturacion_MediosPago,El sistema no reconoce el comprobante de pago de Pago Fácil... un desastre!! @lucas_martinez #EmergenciaElectrica #ReclamoElectrin,0
+774,2024-02-10,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo en Barrio Sur #ObrasElectrin 👏",1
+775,2024-09-23,Atencion_Cliente,Estuve 45 minutos esperando en el 0800 y me cortaron la llamada en Villa Belgrano #ElectrinVerguenza 💔👎💔 https://electrin.com.ar/info/9d712,0
+776,2024-06-16,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada en Zona Industrial... un desastre!! @lucas_martinez #ReclamoElectrin #EmergenciaElectrica 🤦‍♂️😭,0
+777,2024-11-24,Cortes_Emergencia,Agradecido con la cuadrilla por cambiar el fusible del transformador tan rápido #ExcelenteServicio,1
+778,2024-04-29,Obras_Mantenimiento,Instalaron un transformador nuevo y la potencia en la zona industrial mejoró un 100% en Costanera @vecinos_activos ⚡,1
+779,2024-06-22,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron en Villa San Martín... un desastre!! #CorteDeLuz,0
+780,2024-09-29,Cortes_Programados,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Microcentro #ElectrinVerguenza ⚡❌😭🔌🚫",0
+781,2024-07-30,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo en Altos del Valle #ReclamoElectrin",0
+782,2024-04-11,Obras_Mantenimiento,Dejaron escombros y cables viejos tirados frente a las entradas de los garages en Las Flores #PésimoServicio 😭,0
+783,2024-05-01,Atencion_Cliente,Agradezco la calidez y profesionalismo del personal de atención al usuario en Santa Rita!!! @carlos_rodriguez,1
+784,2024-11-23,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera @laura_estilista #SinLuz #BastaDeCortes 🤦‍♂️🕯️🤬,0
+785,2024-10-10,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos @carlos_rodriguez #Inoperantes #PésimoServicio 💔🤦‍♂️,0
+786,2024-10-06,Cortes_Programados,Dijeron que el corte era de 2 horas y ya van 6 horas sin luz en Parque Residencial #Inoperantes #BajaTension 🤦‍♂️🤦‍♂️,0
+787,2024-10-19,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en Altos del Valle... un desastre!! #BajaTension",0
+788,2024-05-20,Atencion_Cliente,Divino el calor que hace adentro de casa sin ventilador ni heladera en Las Acacias... un desastre!! @laura_estilista 😡🕯️🕯️ https://electrin.com.ar/info/f1738,0
+789,2024-10-24,Cortes_Emergencia,Qué linda sorpresa el aumento del triple en la factura de este mes en Santa Rita @laura_estilista 😡,0
+790,2024-03-20,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución... un desastre!! #Inoperantes #BajaTension 💔🔌🚫,0
+791,2024-05-12,Atencion_Cliente,El trámite de cambio de titularidad fue 100% online y se aprobó en 24 horas!!! @diego_vecino #Compromiso #LuzEnElBarrio ⚡🌟🔝,1
+792,2024-08-28,Obras_Mantenimiento,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo #ObrasElectrin 🌟,1
+793,2024-11-14,Facturacion_MediosPago,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo en Las Flores @comercio_local 😀,1
+794,2024-01-18,Atencion_Cliente,La oficina virtual es súper intuitiva y te permite hacer todos los trámites desde casa en Parque Residencial!!! @sofi_alvarez #GraciasCuadrilla 🌟✅ https://electrin.com.ar/info/76e60,1
+795,2024-08-13,Cortes_Programados,Información clara y transparente sobre las zonas afectadas y tiempos estimados en Parque Residencial 💪👏 https://electrin.com.ar/info/4bff8,1
+796,2024-08-20,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya @mariana_gomez #PésimoServicio 😡",0
+797,2024-11-07,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo en Santa Rita @ferreteria_sur #ElectrinResponde #Recomendado ⚡👏,1
+798,2024-05-10,Obras_Mantenimiento,Rompieron la vereda recién hecha para pasar un cable y la dejaron sin revocar en Las Flores 👎🔌🚫,0
+799,2024-07-26,Obras_Mantenimiento,Iluminación LED potente que brinda mucha más seguridad a los vecinos de noche en Costanera @vecinos_activos #GraciasCuadrilla #BuenaAtencion,1
+800,2024-10-07,Obras_Mantenimiento,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Costanera #IluminacionLED 🔝👏💪,1
+801,2024-01-15,Cortes_Programados,Muy buena organización en las obras preventivas para evitar cortes en verano!!! @laura_estilista 🌟 https://electrin.com.ar/info/93c29,1
+802,2024-03-03,Cortes_Emergencia,Excelente predisposición del equipo técnico que arregló el cable caído en minutos en Altos del Valle @vecinos_activos #ServicioRestablecido https://electrin.com.ar/info/d6699,1
+803,2024-05-05,Atencion_Cliente,Fui a la sucursal con turno previo y tuve que esperar 2 horas parado afuera en San Francisco @panaderia_centro #SinLuz #BastaDeCortes,0
+804,2024-03-09,Obras_Mantenimiento,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Barrio Centro @sofi_alvarez #GraciasCuadrilla #Recomendado,1
+805,2024-06-28,Cortes_Emergencia,Reconexión rápida y tensión perfectamente estabilizada tras la tormenta,1
+806,2024-10-24,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio en Las Acacias @sofi_alvarez 🙌💡💡 https://electrin.com.ar/info/2bc27",1
+807,2024-01-26,Cortes_Emergencia,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo en San Francisco!!! @panaderia_centro #ObrasElectrin ✅⚡,1
+808,2024-02-21,Facturacion_MediosPago,"Factura muy clara, bien detallados los subsidios y el historial de consumos en Parque Residencial @diego_vecino #Compromiso #GraciasCuadrilla 💪",1
+809,2024-02-28,Cortes_Emergencia,Excelente predisposición del equipo técnico que arregló el cable caído en minutos!!! #Compromiso,1
+810,2024-01-31,Cortes_Programados,Corte programado ejecutado a tiempo y con aviso previo por SMS y mail en Santa Rita!!! @panaderia_centro #IluminacionLED #LuzEnElBarrio 🔝🔝✅ https://electrin.com.ar/info/8ed42,1
+811,2024-04-03,Obras_Mantenimiento,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo @comercio_local 😀🔝,1
+812,2024-06-21,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan en Parque Residencial... un desastre!! #SinLuz #PésimoServicio 😡😡🕯️,0
+813,2024-09-20,Facturacion_MediosPago,La consulta de saldo por WhatsApp es instantánea y muy cómoda @comercio_local #ExcelenteServicio #ServicioRestablecido 🙌😀💡,1
+814,2024-02-25,Facturacion_MediosPago,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Altos del Valle #IluminacionLED ✅👏😀,1
+815,2024-11-11,Cortes_Emergencia,"Toda la cuadra sin luz y el alumbrado público apagado, zona liberada #Desastre #QueremosLuz 🕯️💔🤬",0
+816,2024-03-08,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión 😤",0
+817,2024-01-17,Facturacion_MediosPago,Excelente la opción de pago con QR interoperable y factura digital automática @dr_martinez ⚡👏,1
+818,2024-06-07,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance en Los Aromos... un desastre!! #QueremosLuz #Desastre,0
+819,2024-08-05,Cortes_Programados,Nos dejaron sin suministro a todo el barrio y nadie da explicaciones en Microcentro @taller_mecanico ⚡❌💔,0
+820,2024-11-19,Facturacion_MediosPago,Reclamé por sobrefacturación y la única respuesta fue 'pague y después vemos' en Parque Residencial... un desastre!! #ElectrodomesticosRotos,0
+821,2024-09-04,Facturacion_MediosPago,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Las Acacias @electrin_oficial 😀,1
+822,2024-04-06,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras en Palermo Viejo... un desastre!! #Desastre 😭💔🤬,0
+823,2024-07-08,Cortes_Emergencia,Destaco el compromiso de los trabajadores de guardia en plena madrugada en Barrio Sur!!! #IluminacionLED #Compromiso 🔝⚡🌟,1
+824,2024-07-10,Cortes_Emergencia,"Genial la puntualidad de Electrín, prometieron luz a las 12 y siguen durmiendo en Villa Belgrano... un desastre!!",0
+825,2024-06-01,Cortes_Emergencia,A pesar del temporal la cuadrilla vino rapidísimo y solucionó el corte #ElectrinResponde,1
+826,2024-09-25,Obras_Mantenimiento,Hicieron zanjeo en la vereda para cambiar cables y dejaron el pozo abierto sin tapar... un desastre!! 😤😭🔌🚫,0
+827,2024-05-08,Atencion_Cliente,Agradezco la calidez y profesionalismo del personal de atención al usuario en Palermo Viejo #ObrasElectrin #ServicioRestablecido 🌟🙌,1
+828,2024-06-20,Obras_Mantenimiento,Se terminaron los problemas de baja tensión gracias a la nueva subestación @electrin_reclamos 👏💡 https://electrin.com.ar/info/77d90,1
+829,2024-02-19,Cortes_Programados,"Tercer corte programado en la semana, no se puede vivir así en Altos del Valle... un desastre!! #ElectrodomesticosRotos",0
+830,2024-06-25,Cortes_Programados,Buena iniciativa de publicar los mapas interactivos de corte en Instagram en La Alborada 😀,1
+831,2024-04-26,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo @laura_estilista #ObrasElectrin 💪💡👏,1
+832,2024-03-01,Facturacion_MediosPago,"La nueva app móvil funciona de diez, pagué la factura en un clic con débito @claudia_v",1
+833,2024-03-23,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano... un desastre!! 🤬⚡❌,0
+834,2024-11-21,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas #Compromiso #BuenaAtencion 👍✅ https://electrin.com.ar/info/62467,1
+835,2024-06-03,Atencion_Cliente,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada en Altos del Valle @taller_mecanico #PésimoServicio 😤",0
+836,2024-03-22,Obras_Mantenimiento,"Cuadrillas muy profesionales, dejaron la vereda perfectamente limpia y señalizada en Las Flores @juanpablo_92 ⚡ https://electrin.com.ar/info/5c088",1
+837,2024-05-24,Obras_Mantenimiento,Iluminación LED potente que brinda mucha más seguridad a los vecinos de noche en Parque Residencial 👏,1
+838,2024-09-28,Cortes_Emergencia,Llamamos a emergencias y nos dicen que no tienen móviles disponibles en Palermo Viejo... un desastre!! #QueremosLuz,0
+839,2024-04-04,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos",0
+840,2024-01-09,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo #Compromiso,1
+841,2024-11-09,Facturacion_MediosPago,"Pude adherirme al pago sin papel en dos minutos, muy práctico y ecológico @vecinos_activos #Compromiso 💡🙌🔝",1
+842,2024-03-23,Cortes_Emergencia,Solucionaron la fase caída en menos de una hora de haber hecho el reporte!!! #Eficiencia #BuenaAtencion 😀💪 https://electrin.com.ar/info/54d93,1
+843,2024-11-08,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos en Los Aromos 😡,0
+844,2024-05-15,Facturacion_MediosPago,Qué linda sorpresa el aumento del triple en la factura de este mes en Altos del Valle @electrin_oficial #ElectrinVerguenza 👎⚡❌,0
+845,2024-06-23,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor... un desastre!! @sofi_alvarez #ReclamoElectrin,0
+846,2024-01-09,Facturacion_MediosPago,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena @laura_estilista ⚡❌😤,0
+847,2024-07-11,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas 🌟",1
+848,2024-01-23,Cortes_Programados,"Hacía falta el mantenimiento en los transformadores de nuestra zona, gracias en Altos del Valle #ExcelenteServicio #ObrasElectrin ✅🔝 https://electrin.com.ar/info/8f835",1
+849,2024-04-07,Obras_Mantenimiento,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en Palermo Viejo @taller_mecanico #EmergenciaElectrica 🔌🚫,0
+850,2024-04-25,Cortes_Emergencia,Hermoso festejar el cumpleaños con velas porque la luz no volvió en Zona Industrial @ferreteria_sur ⚡❌,0
+851,2024-01-14,Cortes_Emergencia,"Fase caída hace dos días, no podemos encender ni la bomba de agua en Las Flores @mariana_gomez #PésimoServicio #ZonaAfectada 😡⚡❌",0
+852,2024-10-05,Facturacion_MediosPago,"La nueva app móvil funciona de diez, pagué la factura en un clic con débito #EnergiaElectrica",1
+853,2024-08-10,Atencion_Cliente,El sistema de notificaciones por SMS te mantiene informado de todo el estado @panaderia_centro 💡🔝💡,1
+854,2024-01-31,Facturacion_MediosPago,Excelente la opción de pago con QR interoperable y factura digital automática #ElectrinResponde #ObrasElectrin 🌟✅💡,1
+855,2024-07-29,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz @carlos_rodriguez #Recomendado #GraciasCuadrilla 🔝👍,1
+856,2024-09-10,Atencion_Cliente,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas 💪,1
+857,2024-02-13,Atencion_Cliente,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en Barrio Sur!!!,1
+858,2024-07-18,Obras_Mantenimiento,"Cuadrillas muy profesionales, dejaron la vereda perfectamente limpia y señalizada en Parque Residencial #ObrasElectrin 🔝⚡",1
+859,2024-05-23,Cortes_Programados,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente 💪,1
+860,2024-04-14,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo @ferreteria_sur 💡✅👍 https://electrin.com.ar/info/e0d10",1
+861,2024-01-11,Obras_Mantenimiento,Colocaron nuevo cableado preensamblado en el barrio y ya no hay parpadeos de luz en San Francisco @panaderia_centro ✅✅,1
+862,2024-01-15,Atencion_Cliente,Divino el calor que hace adentro de casa sin ventilador ni heladera en Microcentro @dr_martinez,0
+863,2024-07-04,Facturacion_MediosPago,Pude financiar mi deuda en cuotas accesibles a través de la oficina virtual en La Alborada #Recomendado 👍😀,1
+864,2024-02-01,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron... un desastre!! #Desastre,0
+865,2024-05-22,Cortes_Emergencia,El servicio volvió antes de lo previsto luego del rayo que afectó la subestación #Compromiso 💡😀💪,1
+866,2024-11-21,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en Villa San Martín... un desastre!! 💔⚡❌🤬 https://electrin.com.ar/info/ecc6b",0
+867,2024-03-30,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora... un desastre!! #BastaDeCortes #PésimoServicio ⚡❌🤦‍♂️,0
+868,2024-06-21,Obras_Mantenimiento,La factura vino un poco más cara pero la app para pagar en cuotas ayudó bastante #GraciasCuadrilla #ObrasElectrin ⚡,1
+869,2024-04-26,Cortes_Programados,Tuvimos baja tensión un par de horas pero la respuesta de la guardia técnica fue muy buena en Barrio Sur!!! 🙌👏💡,1
+870,2024-02-09,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores #PésimoServicio,0
+871,2024-01-08,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano en San Francisco... un desastre!! @laura_estilista #QueremosLuz 😭🕯️,0
+872,2024-11-18,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento en Las Flores @panaderia_centro,0
+873,2024-07-23,Cortes_Emergencia,"Fase caída hace dos días, no podemos encender ni la bomba de agua en San Francisco #Desastre #BajaTension",0
+874,2024-09-14,Atencion_Cliente,Trámite de cambio de titularidad rechazado tres veces sin explicar el motivo en San Francisco #ReclamoElectrin 🤬🤦‍♂️,0
+875,2024-05-27,Facturacion_MediosPago,La factura vino un poco más cara pero la app para pagar en cuotas ayudó bastante en San Cayetano #Eficiencia #Compromiso 💪👏,1
+876,2024-06-23,Cortes_Emergencia,"La guardia de emergencias llegó a los 20 minutos de ingresar el reclamo, impecable en San Cayetano!!! #BuenaAtencion #Compromiso",1
+877,2024-09-18,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad en Los Aromos!!!,1
+878,2024-01-29,Obras_Mantenimiento,Instalaron un transformador nuevo y la potencia en la zona industrial mejoró un 100% @taller_mecanico #ObrasElectrin #Compromiso 💪 https://electrin.com.ar/info/37256,1
+879,2024-10-30,Cortes_Programados,Tuvimos un corte imprevisto a la tarde pero la cuadrilla lo solucionó rapidísimo 🌟,1
+880,2024-05-04,Cortes_Programados,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Los Aromos @ferreteria_sur,1
+881,2024-03-20,Facturacion_MediosPago,Qué linda sorpresa el aumento del triple en la factura de este mes en Las Acacias... un desastre!! 👎,0
+882,2024-08-01,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos en San Cayetano... un desastre!! #ElectrinVerguenza 🤬🔌🚫👎",0
+883,2024-02-25,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando... un desastre!! 💔👎,0
+884,2024-10-18,Obras_Mantenimiento,Iluminación LED potente que brinda mucha más seguridad a los vecinos de noche en Las Flores @sofi_alvarez 👍✅💡,1
+885,2024-07-28,Cortes_Programados,Excelente que avisen con 48hs de anticipación con mapa claro de las zonas @juanpablo_92,1
+886,2024-09-05,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Las Flores #ElectrodomesticosRotos 💔🤬💔",0
+887,2024-09-30,Facturacion_MediosPago,"Factura muy clara, bien detallados los subsidios y el historial de consumos #LuzEnElBarrio #Eficiencia 👍",1
+888,2024-11-06,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos... un desastre!! @electrin_reclamos #PésimoServicio",0
+889,2024-06-22,Atencion_Cliente,Prometen que la cuadrilla pasa en 2 horas y nunca aparece nadie en San Cayetano #Inoperantes #ReclamoElectrin,0
+890,2024-03-04,Obras_Mantenimiento,La factura vino un poco más cara pero la app para pagar en cuotas ayudó bastante en San Francisco!!! #IluminacionLED #Recomendado,1
+891,2024-07-22,Facturacion_MediosPago,Pude financiar mi deuda en cuotas accesibles a través de la oficina virtual @ferreteria_sur 👏😀✅,1
+892,2024-07-23,Facturacion_MediosPago,Imposible entender el desglose de conceptos e impuestos en la boleta en Altos del Valle @juanpablo_92,0
+893,2024-07-28,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos... un desastre!! 🤦‍♂️,0
+894,2024-03-06,Cortes_Emergencia,El servicio volvió antes de lo previsto luego del rayo que afectó la subestación en Altos del Valle #GraciasCuadrilla 👏,1
+895,2024-07-21,Cortes_Programados,"Hacía falta el mantenimiento en los transformadores de nuestra zona, gracias en Palermo Viejo @sofi_alvarez #ServicioRestablecido 🙌",1
+896,2024-04-04,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya en Zona Industrial... un desastre!!",0
+897,2024-04-16,Obras_Mantenimiento,Felicitaciones por la nueva iluminación LED en toda la avenida principal!!! @carlos_rodriguez ✅,1
+898,2024-07-28,Facturacion_MediosPago,Facilidades de pago claras y acreditación inmediata del comprobante en Las Acacias @diego_vecino 🌟🙌,1
+899,2024-09-27,Cortes_Emergencia,"Se siente olor a quemado en la caja térmica de la entrada, manden cuadrilla ya... un desastre!! 😤😤",0
+900,2024-07-17,Facturacion_MediosPago,Divino el calor que hace adentro de casa sin ventilador ni heladera #ZonaAfectada,0
+901,2024-07-24,Atencion_Cliente,La oficina virtual es súper intuitiva y te permite hacer todos los trámites desde casa!!! @carlos_rodriguez #GraciasCuadrilla #IluminacionLED,1
+902,2024-10-26,Atencion_Cliente,Seguimiento impecable del reclamo hasta confirmar que teníamos servicio normal en Los Aromos @juanpablo_92 💪,1
+903,2024-07-25,Atencion_Cliente,Resolvieron mi duda sobre la tarifa social con mucha paciencia y claridad en San Cayetano @diego_vecino #Eficiencia,1
+904,2024-11-20,Facturacion_MediosPago,La consulta de saldo por WhatsApp es instantánea y muy cómoda!!! #Recomendado ⚡🌟🙌,1
+905,2024-08-04,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento en Altos del Valle!!! ⚡🌟😀 https://electrin.com.ar/info/5ebb5,1
+906,2024-05-06,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron en La Alborada... un desastre!!,0
+907,2024-04-13,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en Parque Residencial!!! 💪,1
+908,2024-06-26,Obras_Mantenimiento,Instalaron un transformador nuevo y la potencia en la zona industrial mejoró un 100% 😀⚡ https://electrin.com.ar/info/1af98,1
+909,2024-06-22,Obras_Mantenimiento,Iluminación LED potente que brinda mucha más seguridad a los vecinos de noche en Barrio Sur @electrin_oficial #ElectrinResponde #ServicioRestablecido ⚡👍🔝,1
+910,2024-07-07,Cortes_Emergencia,Explotó un transformador en la esquina y salieron chispas por todos lados en Las Flores #ElectrodomesticosRotos #ZonaAfectada 😤🔌🚫👎 https://electrin.com.ar/info/f3c42,0
+911,2024-05-15,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento en Microcentro #GraciasCuadrilla #ElectrinResponde,1
+912,2024-04-27,Atencion_Cliente,La oficina virtual es súper intuitiva y te permite hacer todos los trámites desde casa en Parque Residencial!!! @mariana_gomez,1
+913,2024-06-14,Obras_Mantenimiento,Postes viejos de madera podridos que nunca reemplazan por columnas de hormigón en Villa Belgrano 😤🤬😡,0
+914,2024-01-31,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano en Villa San Martín #BajaTension #ElectrodomesticosRotos 🔌🚫 https://electrin.com.ar/info/85a94,0
+915,2024-10-27,Obras_Mantenimiento,Se corta la luz cada vez que intentan hacer una maniobra de mantenimiento... un desastre!! #ReclamoElectrin,0
+916,2024-02-24,Cortes_Programados,No avisaron con tiempo y se me descongeló toda la mercadería de la heladera #PésimoServicio #EmergenciaElectrica 💔🕯️⚡❌,0
+917,2024-06-24,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada en San Francisco #Inoperantes #QueremosLuz 🔌🚫,0
+918,2024-06-28,Cortes_Emergencia,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas en Las Flores!!! 👍👍✅,1
+919,2024-07-27,Cortes_Programados,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Las Acacias https://electrin.com.ar/info/4117a,1
+920,2024-05-27,Cortes_Emergencia,Baja tensión constante que hace parpadear todas las luces y rompe motores @ferreteria_sur #BastaDeCortes #ReclamoElectrin 😤😡,0
+921,2024-11-30,Obras_Mantenimiento,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada @vecinos_activos 🤦‍♂️🔌🚫",0
+922,2024-06-07,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Villa Belgrano #Inoperantes #BajaTension,0
+923,2024-06-03,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas #ServicioRestablecido 💡💡💪,1
+924,2024-04-27,Facturacion_MediosPago,Hermoso festejar el cumpleaños con velas porque la luz no volvió,0
+925,2024-06-13,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan,0
+926,2024-08-24,Obras_Mantenimiento,"Inversión que se ve en hechos, la red eléctrica del barrio está mucho más moderna @juanpablo_92 🔝💡 https://electrin.com.ar/info/95e23",1
+927,2024-07-19,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V,0
+928,2024-05-02,Cortes_Programados,"Otra vez cortan en pleno horario comercial, nos arruinan el trabajo en San Francisco... un desastre!! 🔌🚫",0
+929,2024-03-28,Atencion_Cliente,Prometen que la cuadrilla pasa en 2 horas y nunca aparece nadie en Barrio Centro 😭🔌🚫🤦‍♂️,0
+930,2024-07-16,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio en Barrio Centro @carlos_rodriguez #ObrasElectrin 💪🙌🌟",1
+931,2024-02-23,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance @electrin_reclamos #SinLuz 💔,0
+932,2024-09-13,Facturacion_MediosPago,Están cobrando consumo estimado en lugar de venir a tomar la lectura real del medidor en Barrio Sur... un desastre!! @vecinos_activos #CorteDeLuz 😡,0
+933,2024-04-07,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron en Barrio Norte... un desastre!! @diego_vecino #SinLuz #ElectrinVerguenza 🤦‍♂️💔🕯️,0
+934,2024-09-27,Obras_Mantenimiento,Hicieron zanjeo en la vereda para cambiar cables y dejaron el pozo abierto sin tapar en San Cayetano... un desastre!! 🔌🚫😭👎,0
+935,2024-05-05,Obras_Mantenimiento,Qué linda sorpresa el aumento del triple en la factura de este mes... un desastre!! 🤬🕯️,0
+936,2024-01-29,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras @carlos_rodriguez 😤,0
+937,2024-05-07,Facturacion_MediosPago,Muy buena la bonificación por ahorro de energía en el último bimestre en Las Flores @electrin_oficial #Recomendado #ExcelenteServicio 💪,1
+938,2024-04-12,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando en Palermo Viejo... un desastre!! @juanpablo_92 🤬🔌🚫🔌🚫,0
+939,2024-08-25,Obras_Mantenimiento,"Cuadrillas muy profesionales, dejaron la vereda perfectamente limpia y señalizada",1
+940,2024-08-07,Obras_Mantenimiento,"Excelente el bot de atención, me repitió diez veces lo mismo sin solucionar nada #PésimoServicio 🤬🤬😤 https://electrin.com.ar/info/6d34e",0
+941,2024-10-25,Obras_Mantenimiento,"Cuadrillas muy profesionales, dejaron la vereda perfectamente limpia y señalizada @mariana_gomez",1
+942,2024-09-02,Cortes_Programados,Muy buena organización en las obras preventivas para evitar cortes en verano!!! @dr_martinez #ExcelenteServicio 👏,1
+943,2024-06-11,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte en Las Acacias... un desastre!! @carlos_rodriguez,0
+944,2024-06-03,Cortes_Programados,Buena iniciativa de publicar los mapas interactivos de corte en Instagram en Santa Rita,1
+945,2024-03-30,Cortes_Programados,Nos dejaron sin suministro a todo el barrio y nadie da explicaciones en Los Aromos,0
+946,2024-11-15,Cortes_Emergencia,Un aplauso enorme para la cuadrilla que pasó mirando el poste y siguió de largo en Parque Residencial... un desastre!! @dr_martinez #Desastre 🔌🚫,0
+947,2024-08-14,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Las Acacias @dr_martinez ⚡❌😭,0
+948,2024-09-20,Cortes_Emergencia,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Parque Residencial 😭",0
+949,2024-09-04,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos en Altos del Valle @taller_mecanico 🤦‍♂️",0
+950,2024-09-02,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución en Las Acacias 😤😡😭,0
+951,2024-03-28,Facturacion_MediosPago,La consulta de saldo por WhatsApp es instantánea y muy cómoda en Barrio Norte!!! @electrin_oficial #EnergiaElectrica #Compromiso ⚡,1
+952,2024-08-14,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando #EmergenciaElectrica 🤦‍♂️,0
+953,2024-09-10,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento @mariana_gomez #IluminacionLED #Eficiencia,1
+954,2024-10-21,Atencion_Cliente,Respondieron mi consulta por mensaje directo de Instagram de forma rápida y clara en Santa Rita 💡⚡👍 https://electrin.com.ar/info/835e5,1
+955,2024-08-28,Cortes_Programados,Imposible trabajar desde casa con estos cortes programados interminables... un desastre!! 😡👎 https://electrin.com.ar/info/677a7,0
+956,2024-05-27,Facturacion_MediosPago,La descarga de boletas desde la web es instantánea y sin complicaciones en La Alborada @mariana_gomez ⚡ https://electrin.com.ar/info/80245,1
+957,2024-08-18,Cortes_Emergencia,Llevamos más de 24 horas sin luz y no vino ninguna cuadrilla en Altos del Valle #ElectrinVerguenza #BajaTension 😭🤦‍♂️,0
+958,2024-04-24,Facturacion_MediosPago,Muy buena la bonificación por ahorro de energía en el último bimestre en Barrio Sur 💡,1
+959,2024-09-19,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz en Costanera 🙌⚡,1
+960,2024-05-16,Cortes_Emergencia,A pesar del temporal la cuadrilla vino rapidísimo y solucionó el corte en Zona Industrial!!! #GraciasCuadrilla #BuenaAtencion ✅👏,1
+961,2024-10-07,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora en Parque Residencial #EmergenciaElectrica 😤,0
+962,2024-11-01,Atencion_Cliente,Agradezco la calidez y profesionalismo del personal de atención al usuario en San Cayetano!!! ✅💡,1
+963,2024-09-08,Cortes_Programados,"Corte programado sin aviso previo en la app ni por correo, una falta de respeto @ferreteria_sur #ZonaAfectada",0
+964,2024-03-06,Cortes_Programados,Excelente que avisen con 48hs de anticipación con mapa claro de las zonas en Las Acacias 👏⚡,1
+965,2024-09-16,Cortes_Programados,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Microcentro @electrin_reclamos 🤦‍♂️🕯️🤦‍♂️ https://electrin.com.ar/info/50ef9",0
+966,2024-10-23,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en La Alborada @sofi_alvarez 🕯️🕯️,0
+967,2024-06-13,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos... un desastre!!,0
+968,2024-04-15,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz!!! ⚡💪 https://electrin.com.ar/info/77da1,1
+969,2024-04-19,Cortes_Emergencia,Solucionaron la fase caída en menos de una hora de haber hecho el reporte!!! https://electrin.com.ar/info/dd4a8,1
+970,2024-06-15,Obras_Mantenimiento,Rompieron la vereda recién hecha para pasar un cable y la dejaron sin revocar en Villa San Martín... un desastre!! @ferreteria_sur ⚡❌🤬⚡❌,0
+971,2024-06-10,Cortes_Emergencia,Muchas gracias a los chicos de la cuadrilla que vinieron en plena tormenta y cambiaron el transformador rapidísimo en Microcentro!!! @panaderia_centro 👍,1
+972,2024-07-21,Cortes_Programados,"Corte programado sin aviso previo en la app ni por correo, una falta de respeto en Palermo Viejo @juanpablo_92 #ReclamoElectrin 😡💔👎",0
+973,2024-06-22,Obras_Mantenimiento,Divino el calor que hace adentro de casa sin ventilador ni heladera en Costanera @laura_estilista ⚡❌😤⚡❌,0
+974,2024-05-23,Cortes_Programados,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Zona Industrial... un desastre!! #QueremosLuz 👎👎🤦‍♂️",0
+975,2024-09-01,Atencion_Cliente,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas #ObrasElectrin 🔝👏,1
+976,2024-11-26,Facturacion_MediosPago,Pagué la factura hace una semana y me siguen intimando con el aviso de corte en Santa Rita @carlos_rodriguez #PésimoServicio #BastaDeCortes 👎👎,0
+977,2024-06-13,Cortes_Programados,"Todo volvió a funcionar perfecto en el horario prometido, excelente servicio!!! ✅",1
+978,2024-09-09,Atencion_Cliente,No contestan los mensajes directos de Instagram ni los correos de soporte en Zona Industrial @dr_martinez #ElectrinVerguenza,0
+979,2024-02-25,Cortes_Programados,Corte programado ejecutado a tiempo y con aviso previo por SMS y mail!!! 🌟🌟,1
+980,2024-08-22,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento en Altos del Valle @claudia_v #LuzEnElBarrio #ElectrinResponde 🌟⚡,1
+981,2024-08-16,Facturacion_MediosPago,Me vino el triple de consumo en la factura sin justificación alguna 🤬,0
+982,2024-06-28,Cortes_Programados,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en Barrio Norte @taller_mecanico ⚡❌🕯️,0
+983,2024-04-11,Cortes_Emergencia,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena... un desastre!! @mariana_gomez 😭,0
+984,2024-06-25,Cortes_Programados,Siempre cortan en el mismo sector y las obras nunca se terminan en Costanera @electrin_oficial 🕯️🤬,0
+985,2024-03-30,Cortes_Emergencia,Muchas gracias a los operarios que trabajaron bajo la lluvia para devolvernos la luz en San Francisco!!! @juanpablo_92 https://electrin.com.ar/info/6dcbd,1
+986,2024-10-18,Atencion_Cliente,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Barrio Sur @laura_estilista #IluminacionLED #ObrasElectrin,1
+987,2024-02-19,Cortes_Emergencia,Llevamos más de 24 horas sin luz y no vino ninguna cuadrilla en Villa Belgrano... un desastre!! 🔌🚫🔌🚫,0
+988,2024-03-10,Obras_Mantenimiento,Se cortó la luz durante el temporal aunque los operarios trabajaron muy rápido bajo la lluvia @dr_martinez #LuzEnElBarrio #ElectrinResponde 💪🙌😀,1
+989,2024-10-21,Facturacion_MediosPago,"La app para pagar con débito se cae siempre a fin de mes, da error de conexión en San Cayetano @electrin_oficial #BastaDeCortes 🤬🕯️",0
+990,2024-11-14,Facturacion_MediosPago,Te cobran cargos fijos altísimos por un servicio que se corta todos los días en Microcentro... un desastre!! @juanpablo_92 💔⚡❌🤬,0
+991,2024-10-10,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado en Microcentro @panaderia_centro",0
+992,2024-03-21,Obras_Mantenimiento,Hubo demora en la atención telefónica pero el operador que me tocó fue súper amable y resolutivo en Las Flores!!! #Eficiencia #ObrasElectrin ✅,1
+993,2024-02-14,Obras_Mantenimiento,Instalaron un transformador nuevo y la potencia en la zona industrial mejoró un 100% en Santa Rita!!!,1
+994,2024-08-13,Cortes_Programados,Qué linda sorpresa el aumento del triple en la factura de este mes en Parque Residencial @diego_vecino 👎🤬😤 https://electrin.com.ar/info/b5759,0
+995,2024-07-02,Cortes_Programados,Qué linda sorpresa el aumento del triple en la factura de este mes en Villa Belgrano... un desastre!! #PésimoServicio 😡🕯️ https://electrin.com.ar/info/bb33d,0
+996,2024-03-11,Facturacion_MediosPago,"El código QR para pagar en la web no funciona, no valida el comprobante #EmergenciaElectrica 🤬🤦‍♂️⚡❌ https://electrin.com.ar/info/de3bd",0
+997,2024-06-28,Facturacion_MediosPago,Muy buena la bonificación por ahorro de energía en el último bimestre en Palermo Viejo @ferreteria_sur #ExcelenteServicio 🔝👏💪 https://electrin.com.ar/info/e2696,1
+998,2024-07-17,Cortes_Programados,"Corte programado sin aviso previo en la app ni por correo, una falta de respeto en Santa Rita @panaderia_centro #Inoperantes",0
+999,2024-06-04,Cortes_Programados,Prometieron restablecer a las 14hs y seguimos esperando a oscuras en Palermo Viejo @comercio_local #QueremosLuz #EmergenciaElectrica,0
+1000,2024-05-22,Cortes_Emergencia,"Fase caída hace dos días, no podemos encender ni la bomba de agua #ElectrinVerguenza 🤦‍♂️",0
+1001,2024-05-20,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en San Francisco @mariana_gomez #ExcelenteServicio ✅😀🔝,1
+1002,2024-02-25,Atencion_Cliente,Falta total de empatía con los usuarios que necesitan luz para sus medicamentos... un desastre!! @panaderia_centro #Desastre 🤦‍♂️,0
+1003,2024-04-01,Cortes_Programados,"Tercer corte programado en la semana, no se puede vivir así en Las Acacias 🕯️",0
+1004,2024-11-15,Facturacion_MediosPago,Pude financiar mi deuda en cuotas accesibles a través de la oficina virtual en Villa Belgrano!!! https://electrin.com.ar/info/89639,1
+1005,2024-04-01,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente... un desastre!! #SinLuz",0
+1006,2024-05-11,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano en Los Aromos #QueremosLuz 🤦‍♂️,0
+1007,2024-10-08,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora en Zona Industrial #PésimoServicio,0
+1008,2024-03-09,Cortes_Programados,Nos dejaron sin suministro a todo el barrio y nadie da explicaciones @panaderia_centro #ElectrinVerguenza #CorteDeLuz,0
+1009,2024-09-07,Atencion_Cliente,No contestan los mensajes directos de Instagram ni los correos de soporte en San Francisco 😡,0
+1010,2024-06-01,Cortes_Programados,"Un desastre la duración del corte, superó por el doble lo anunciado... un desastre!! @taller_mecanico #Inoperantes #ElectrinVerguenza 😭",0
+1011,2024-06-19,Atencion_Cliente,Cierran los reclamos en el sistema como 'solucionado' cuando la luz sigue cortada en Zona Industrial #EmergenciaElectrica,0
+1012,2024-06-29,Atencion_Cliente,Hice el reclamo por WhatsApp y me atendieron al instante con número de seguimiento en Zona Industrial!!! #ElectrinResponde #Eficiencia,1
+1013,2024-08-18,Cortes_Emergencia,"Poste de luz quebrado a punto de caer sobre una casa, vengan urgente en Palermo Viejo #ReclamoElectrin #SinLuz ⚡❌",0
+1014,2024-05-19,Atencion_Cliente,El sistema de notificaciones por SMS te mantiene informado de todo el estado en La Alborada 🌟👍,1
+1015,2024-04-04,Cortes_Programados,"Avisaron puerta por puerta en el barrio comercial, muy profesionales en Barrio Sur https://electrin.com.ar/info/958a7",1
+1016,2024-06-02,Obras_Mantenimiento,Rompen la calle para una obra que dura meses y no se ve ningún avance en Costanera... un desastre!!,0
+1017,2024-01-20,Cortes_Emergencia,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente @electrin_reclamos #Recomendado 😀✅,1
+1018,2024-01-31,Cortes_Emergencia,Divino el calor que hace adentro de casa sin ventilador ni heladera en Altos del Valle... un desastre!! @sofi_alvarez #ReclamoElectrin #BastaDeCortes,0
+1019,2024-08-31,Obras_Mantenimiento,Las obras de soterramiento de cables quedaron impecables y muy prolijas en Parque Residencial @panaderia_centro,1
+1020,2024-03-11,Cortes_Programados,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en Altos del Valle 🕯️🕯️😡,0
+1021,2024-08-23,Facturacion_MediosPago,"El código QR para pagar en la web no funciona, no valida el comprobante en Microcentro... un desastre!! @sofi_alvarez 🤦‍♂️😭💔 https://electrin.com.ar/info/b296d",0
+1022,2024-08-18,Facturacion_MediosPago,"El débito automático funciona impecable, nunca un problema ni cobro duplicado en Microcentro!!! #ElectrinResponde #ObrasElectrin 🔝😀💪",1
+1023,2024-04-01,Cortes_Programados,Imposible trabajar desde casa con estos cortes programados interminables en San Cayetano... un desastre!! 😭 https://electrin.com.ar/info/b5245,0
+1024,2024-01-16,Atencion_Cliente,El trámite web tardó dos días pero me resolvieron el cambio de titularidad sin problemas!!! @laura_estilista 😀👏💪,1
+1025,2024-09-22,Cortes_Emergencia,Impecable respuesta operativa ante la emergencia climática de anoche 💡⚡🌟,1
+1026,2024-10-20,Facturacion_MediosPago,"La nueva app móvil funciona de diez, pagué la factura en un clic con débito en Palermo Viejo #IluminacionLED",1
+1027,2024-02-18,Cortes_Emergencia,"Tensión en 160V, se van a quemar todos los electrodomésticos en Santa Rita... un desastre!! @electrin_reclamos #BastaDeCortes 😭🔌🚫",0
+1028,2024-11-13,Facturacion_MediosPago,Excelente la opción de pago con QR interoperable y factura digital automática @carlos_rodriguez #Recomendado #LuzEnElBarrio,1
+1029,2024-04-30,Cortes_Programados,"Cumplieron con el horario exacto del corte programado, restablecieron antes de tiempo en Barrio Norte!!! @vecinos_activos 👏 https://electrin.com.ar/info/a240e",1
+1030,2024-08-19,Atencion_Cliente,Muchas gracias por cortar la luz justo cuando empezaba a cocinar la cena en Altos del Valle ⚡❌😤😭,0
+1031,2024-11-08,Atencion_Cliente,El bot de WhatsApp da vueltas en círculos y nunca te pasa con un operador humano en Microcentro... un desastre!!,0
+1032,2024-11-02,Obras_Mantenimiento,"Estuvimos sin luz un rato por el rayo pero el servicio volvió antes de lo previsto, gracias 💪⚡",1
+1033,2024-05-24,Facturacion_MediosPago,"El débito automático funciona impecable, nunca un problema ni cobro duplicado en Los Aromos!!! @claudia_v 👍👏😀",1
+1034,2024-05-24,Obras_Mantenimiento,Pedí la conexión de medidor para obra nueva hace tres meses y sigo esperando... un desastre!! @sofi_alvarez #BastaDeCortes #ElectrodomesticosRotos,0
+1035,2024-05-11,Obras_Mantenimiento,Rompieron la vereda recién hecha para pasar un cable y la dejaron sin revocar en Barrio Centro #Desastre 🤦‍♂️ https://electrin.com.ar/info/f89af,0
+1036,2024-07-26,Atencion_Cliente,Tengo el número de reclamo abierto hace dos semanas y nadie me da una solución en Barrio Centro... un desastre!! ⚡❌😡🤦‍♂️,0
+1037,2024-02-13,Obras_Mantenimiento,Mucho anuncio de obras e inversión en redes pero la tensión sigue cayendo a 180V en Microcentro @sofi_alvarez #BajaTension #ReclamoElectrin 🤬⚡❌🕯️,0
+1038,2024-02-25,Cortes_Programados,Corte programado ejecutado a tiempo y con aviso previo por SMS y mail en Palermo Viejo!!! ⚡💪,1
+1039,2024-11-14,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron en Altos del Valle 🤬😤,0
+1040,2024-08-17,Facturacion_MediosPago,"La nueva app móvil funciona de diez, pagué la factura en un clic con débito en Santa Rita",1
+1041,2024-10-10,Facturacion_MediosPago,Me vino el triple de consumo en la factura sin justificación alguna #ElectrinVerguenza,0
+1042,2024-08-09,Obras_Mantenimiento,"Estuvimos sin luz un rato por el rayo pero el servicio volvió antes de lo previsto, gracias en Barrio Centro #Recomendado #ElectrinResponde 💪😀 https://electrin.com.ar/info/dd0f4",1
+1043,2024-07-11,Facturacion_MediosPago,Tarifas abusivas y los aumentos no se reflejan en una mejora del servicio en Barrio Centro @mariana_gomez #BastaDeCortes 🔌🚫⚡❌⚡❌,0
+1044,2024-05-28,Obras_Mantenimiento,Se tardó la obra de cableado pero la iluminación LED del barrio quedó excelente en Barrio Norte!!!,1
+1045,2024-01-26,Obras_Mantenimiento,"Bárbaro el plan de mantenimiento, cortan la luz todos los días pero la tensión sigue en 170V en Villa San Martín @lucas_martinez #ElectrodomesticosRotos 🤦‍♂️😤",0
+1046,2024-11-17,Facturacion_MediosPago,No me envían la factura digital al mail y después cobran recargo por mora en San Cayetano @diego_vecino #CorteDeLuz,0
+1047,2024-10-22,Cortes_Emergencia,Qué linda sorpresa el aumento del triple en la factura de este mes en San Francisco #Inoperantes 🕯️🔌🚫,0
+1048,2024-04-18,Cortes_Programados,El mapa que publicaron no coincide con la zona que realmente cortaron @panaderia_centro #SinLuz 🤬😡🕯️,0
+1049,2024-03-20,Cortes_Programados,"Agradezco la precisión del horario informado, pude organizar mi trabajo sin problemas #Compromiso 🙌👍",1
+1050,2024-10-23,Atencion_Cliente,La oficina virtual es súper intuitiva y te permite hacer todos los trámites desde casa en Barrio Centro!!! #GraciasCuadrilla #IluminacionLED 🔝⚡💡,1
